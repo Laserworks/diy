@@ -9,4 +9,4 @@ DIY
 * [Drop Watering with Raspberry Pi](https://github.com/petervojtek/diy/wiki/Kvapkov%C3%A9-zavla%C5%BEovanie) (in Slovak)
 
 
-[My Linkedin Profile](www.linkedin.com/pub/peter-vojtek/12/9b9/197)
+[My Linkedin Profile](http://www.linkedin.com/pub/peter-vojtek/12/9b9/197)
