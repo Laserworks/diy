@@ -1,6 +1,7 @@
 DIY
 ===
 
+* [Arduino based Outdoor People Counter](https://github.com/petervojtek/diy/wiki/Arduino-based-Outdoor-People-Counter)
 * [Arduino with Very Low Power Consumption](https://github.com/petervojtek/diy/wiki/Arduino-with-Very-Low-Power-Consumption)
 * [Arduino Powered Rubbish Bin: Indicate Number of Days Since Being Emptied](https://github.com/petervojtek/diy/wiki/Arduino-Powered-Rubbish-Bin:-Indicate-Number-of-Days-Since-Being-Emptied)
 * [Aquarium Aeration with Arduino](https://github.com/petervojtek/diy/wiki/Aquarium-Aeration-with-Arduino)
