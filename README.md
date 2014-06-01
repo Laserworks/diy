@@ -1,6 +1,7 @@
 DIY
 ===
 
+* [Enhance Sphero Maneuverability with Liquid Latex](http://www.instructables.com/id/Enhance-Sphero-Maneuverability-with-Liquid-Latex/)
 * [Arduino based Outdoor People Counter](https://github.com/petervojtek/diy/wiki/Arduino-based-Outdoor-People-Counter)
 * [Arduino with Very Low Power Consumption](https://github.com/petervojtek/diy/wiki/Arduino-with-Very-Low-Power-Consumption)
 * [Arduino Powered Rubbish Bin: Indicate Number of Days Since Being Emptied](https://github.com/petervojtek/diy/wiki/Arduino-Powered-Rubbish-Bin:-Indicate-Number-of-Days-Since-Being-Emptied)
