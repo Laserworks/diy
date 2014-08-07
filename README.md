@@ -1,6 +1,7 @@
 DIY
 ===
 
+* [Business Card made of Banknote](https://github.com/petervojtek/diy/wiki/Business-Card-Made-of-Banknote)
 * [Enhance Sphero Maneuverability with Liquid Latex](http://www.instructables.com/id/Enhance-Sphero-Maneuverability-with-Liquid-Latex/)
 * [Arduino based Outdoor People Counter](https://github.com/petervojtek/diy/wiki/Arduino-based-Outdoor-People-Counter)
 * [Arduino with Very Low Power Consumption](https://github.com/petervojtek/diy/wiki/Arduino-with-Very-Low-Power-Consumption)
