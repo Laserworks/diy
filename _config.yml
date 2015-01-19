@@ -3,8 +3,8 @@ title: Remarks from DIY projects
 email: peter.vojtek@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   DIY, the Maker Movement, Quantified Self, Arduino, Wiring 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://petervojtek.github.io/diy" # the base hostname & protocol for your site
+baseurl: "/diy" # the subpath of your site, e.g. /blog/
+url: "https://petervojtek.github.io" # the base hostname & protocol for your site
 github_username: petervojtek
 comments: true
 
