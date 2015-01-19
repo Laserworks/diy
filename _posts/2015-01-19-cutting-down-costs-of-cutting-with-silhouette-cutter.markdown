@@ -36,7 +36,7 @@ Wondering if this is the only option, I found [blogpost](http://ligayatg.blogspo
 
 From my experience, the Graphtec blades operate perfectly on thin materials, but it is hard to properly adjust them to work with thicker materials. I am yet to discover why is it so, I only assume the issue has origins in the fact that the Graphtec holder is bit longer (maybe 0.2mm longer than the one from Silhouette) as depicted on the following image:
 
-![Graphtec CB09 vs Silhouette Blade Holder]({{ site.baseurl}}/images/blades-silhouette-vs-graphtec.jpg "Graphtec CB09 vs SIlhouette Blade Holder")
+![Graphtec CB09 vs Silhouette Blade Holder]({{site.baseurl}}/images/blades-silhouette-vs-graphtec.jpg "Graphtec CB09 vs Silhouette Blade Holder")
 
 
 ## Materials for Stencils
@@ -94,14 +94,11 @@ They are quite expensive, e.g. [here on ebay](http://www.ebay.com/sch/i.html?_fr
 
 ### Frisket Film
 
-Frisket film [cost](http://www.ebay.com/sch/i.html?_from=R40&_trksid=p2047675.m570.l1313.TR0.TRC0.H0.XFRISKET+FILM+-+MATT+ROLL&_nkw=FRISKET+FILM+-+MATT+ROLL&_sacat=0) is around 25 USD for a roll with dimensions 0.25m x 3.6m, which rougly corresponds to 15 (A4) sheets.
+Frisket film [cost](http://www.ebay.com/sch/i.html?_from=R40&_trksid=p2047675.m570.l1313.TR0.TRC0.H0.XFRISKET+FILM+-+MATT+ROLL&_nkw=FRISKET+FILM+-+MATT+ROLL&_sacat=0) is around 25 USD for a roll with dimensions 0.25m x 3.6m, which roughly corresponds to 15 (A4) sheets.
 
-Frisket film is very thin, so that has the same drawbacks as laminating sheets. The point of frisket film is that is has an adhesive layer, which makes it even harder to properly unpeel from the cutting mat, but brings the ability to tightly adhere on the final surface and thus reduces the risk of blurry edges when spraying.
+Frisket film is very thin and thus has similar properties as laminating sheets. The specialty of frisket film is its adhesive layer, which makes it even harder to properly unpeel from the cutting mat, but allows to tightly adhere on the final surface, reducing the risk of blurry edges when spraying.
 
-Compared to self adhesive vinyl sheets, frisket film is (from my experience) less adhesive that vinyl, which is advantage from my point of view as it is easier to remove the stencil from surface once the spraying is done.
-
-
-
+Compared to self adhesive vinyl sheets, frisket film is (from my experience) less adhesive that vinyl, allowing easier stencil removal once the spraying job is done.
 
 ### Summary of Stencil Materials
 
