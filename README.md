@@ -1,6 +1,8 @@
 DIY
 ===
 
+Notice: This page will no longer evolve, you can find new articles and updated on my [DIY blog](http://petervojtek.github.io/diy/).
+
 * [Stalker: Arduino–based door stalking device](https://github.com/petervojtek/stalker)
 * [Business Card made of Banknote](https://github.com/petervojtek/diy/wiki/Business-Card-Made-of-Banknote)
 * [Enhance Sphero Maneuverability with Liquid Latex](http://www.instructables.com/id/Enhance-Sphero-Maneuverability-with-Liquid-Latex/)
