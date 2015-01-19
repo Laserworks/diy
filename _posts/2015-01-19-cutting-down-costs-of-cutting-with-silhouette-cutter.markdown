@@ -36,7 +36,7 @@ Wondering if this is the only option, I found [blogpost](http://ligayatg.blogspo
 
 From my experience, the Graphtec blades operate perfectly on thin materials, but it is hard to properly adjust them to work with thicker materials. I am yet to discover why is it so, I only assume the issue has origins in the fact that the Graphtec holder is bit longer (maybe 0.2mm longer than the one from Silhouette) as depicted on the following image:
 
-![Graphtec CB09 vs Silhouette Blade Holder](/images/blades-silhouette-vs-graphtec.jpg "Graphtec CB09 vs SIlhouette Blade Holder")
+![Graphtec CB09 vs Silhouette Blade Holder]({{ site.baseurl}}/images/blades-silhouette-vs-graphtec.jpg "Graphtec CB09 vs SIlhouette Blade Holder")
 
 
 ## Materials for Stencils
