@@ -104,7 +104,7 @@ Whole board (with LEDs shining) draws 66mA at 3.7V. With a 600mAh battery, it sh
 
 * add calibration 
 * make transition between LEDs more smooth
-* maybe some game like [Powerball](https://powerballs.com)
+* maybe some game like [Powerball](https://powerballs.com) or [Hula hoop](http://en.wikipedia.org/wiki/Hula_hoop)
 
 ### Similar Projects
 
