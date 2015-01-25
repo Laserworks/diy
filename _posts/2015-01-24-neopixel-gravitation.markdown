@@ -26,7 +26,7 @@ The circular share of Neopixel ring makes it perfect to mimick circular movement
 
 ### Code
 
-The code is located [in github repository](https://github.com/petervojtek/neopixel-gravitation/blob/master/neopixel-gravitation.ino) along with fritzing diagram.
+The code is located [in github repository](https://github.com/petervojtek/neopixel-gravitation/blob/master/neopixel_gravitation_arduino/neopixel_gravitation_arduino.ino) along with fritzing diagram.
 
 The accelerometer output is three-axis, but we are interested only in two directions: X and Y.
 When we read directly the analog output from the x and y outputs, we receive following data according to rotation of the accelerometer board:
