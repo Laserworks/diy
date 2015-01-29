@@ -4,7 +4,7 @@ title:  "Visualize Gravitation Effect with Neopixel Ring and Accelerometer"
 date:   2015-01-24 20:00:0
 ---
 
-The circular share of Neopixel ring makes it perfect to mimick circular movement of drop of water or mercury in gravitation field. We take here output from accelerometer and display it with neopixel ring using arduino.
+The circular shape of Neopixel ring makes it perfect to mimick circular movement of drop of water or mercury in gravitation field. We take here output from accelerometer and display it with neopixel ring using arduino.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/YJ9w8hs3sj0" frameborder="0" allowfullscreen></iframe>
 
