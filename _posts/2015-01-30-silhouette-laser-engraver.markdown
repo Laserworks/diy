@@ -39,7 +39,7 @@ We remove the original cutting blade, put few layers of tape around the laser an
 
 ![Fitting the laser to Silhouette cutting head]({{site.baseurl}}/images/silhouette-laser.jpg "Fitting the laser to Silhouette cutting head")
 
-The most critical part is to properly adjust the laser distance from the cutting mat &ndash; this requires time and patience. The laser focal distance can be also adjusted by un/screwing the laser lens (the focal distance seems to move somewhere between 3 to 10 cm this way). When the distance is not set properly, the laser will make no effect to the material.
+The most critical part is to properly adjust the laser distance from the cutting mat &ndash; allow time and patience. The laser focal distance can be also adjusted by un/screwing the laser lens (the focal distance seems to move somewhere between 3 to 10 cm this way). When the distance is not set properly, the laser will make no effect to the material.
 
 ## Laser Power
 
@@ -55,7 +55,7 @@ Below is described why the last option is probably not the best one:
  
 The laser itself is marked as capable of `500mW` optical power output. There are [claims](http://www.rp-photonics.com/wall_plug_efficiency.html) that [wall-plug efficiency](http://en.wikipedia.org/wiki/Wall-plug_efficiency) of such laser is around `25%`, so that max rated `500mW` power output of our laser should come for the price of `2W (500 mW * 4)` power input.
 
-Unless I did some mistake in my reasoning, it means that with `5V` and `200mA` we consume `1W (P = U*I)`, so that we are running the laser at half power &ndash; which is good, as when running at full power the laser will overheat quikly and due to limited space in the cutting head we are unlikely to fit there [some heatsink](http://www.ebay.com/sch/i.html?_odkw=cooling+R+laser+module&_from=R40%7CR40&_osacat=0&_from=R40&_trksid=m570.l1313&_nkw=cooling+laser+module&_sacat=0).
+Unless I did some mistake in my reasoning, it means that with `5V` and `200mA` we consume `1W (P = U*I)`, so that we are running the laser at half power &ndash; which is good, as when running at full power the laser will overheat quickly and due to limited space in the cutting head we are unlikely to fit there [some heatsink](http://www.ebay.com/sch/i.html?_odkw=cooling+R+laser+module&_from=R40%7CR40&_osacat=0&_from=R40&_trksid=m570.l1313&_nkw=cooling+laser+module&_sacat=0).
 
 ## Help
 
