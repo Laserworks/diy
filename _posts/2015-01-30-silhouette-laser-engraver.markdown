@@ -72,4 +72,4 @@ When playing with the laser, I accidentally used wrong resistor and destroyed th
 
 ## Resources
 
-I am surely not the first one who tried this, [here is a youtube video](https://www.youtube.com/watch?v=jK5WyQa6PoQ) of a similar attempt from 2012, unfortunately lacking additional additional technical details except that 3W laser was used.
+I am surely not the first one who tried this, [here is a youtube video](https://www.youtube.com/watch?v=jK5WyQa6PoQ) of a similar attempt from 2012, unfortunately lacking additional technical details except that 3W laser was used.
