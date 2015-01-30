@@ -26,8 +26,8 @@ The vendor claims the laser should operate at `5V` to `5.5V`, at `200mA` to `260
 We start with `5V` at `200mA`. We will use `12V` power source and we need to compute what resistor should we place in series with the laser to achieve `5V` and `200mA` at the laser.
 
 The laser resistance is `5V / 0.2A = 25 ohm`.
-We want to split the `12V` from to source to keep `5V` at the laser, so that `7V` must be left for the resistor.
-The desired resistance is `7V / 5V * 25 ohm = 35 ohm`. 
+We want to split the `12V` from source to keep `5V` at the laser, so that `7V` will be left for the resistor.
+The desired resistance is then `7V / 5V * 25 ohm = 35 ohm`. 
 
 The same can be computed via [ledcalc](http://ledcalc.com/) page.
 
@@ -39,7 +39,7 @@ We remove the original cutting blade, put few layers of tape around the laser an
 
 ![Fitting the laser to Silhouette cutting head]({{site.baseurl}}/images/silhouette-laser.jpg "Fitting the laser to Silhouette cutting head")
 
-The most critical part is to properly adjust the laser distance from the cutting mat &ndash; this requires time and patience. The laser focal distance can be also adjusted be un/screwing the laser lens (the focal distance seems to move somewhere between 3 to 10 cm this way). When the distance is not set properly, the laser will make no effect to the material.
+The most critical part is to properly adjust the laser distance from the cutting mat &ndash; this requires time and patience. The laser focal distance can be also adjusted by un/screwing the laser lens (the focal distance seems to move somewhere between 3 to 10 cm this way). When the distance is not set properly, the laser will make no effect to the material.
 
 ## Laser Power
 
