@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Proof of Concept: Laser Engraver Made of Silhouette Blade Cutter"
+title:  "Laser Engraver Made of Silhouette Blade Cutter"
 date:   2015-01-30 20:00:0
 ---
 
