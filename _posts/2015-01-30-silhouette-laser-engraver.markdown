@@ -69,6 +69,9 @@ When playing with the laser, I accidentally used wrong resistor and destroyed th
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+### 2015-02-01 Update
+
+Ryan from Kentucky donated 50 EUR, thank you. I ordered a new laser.
 
 ## Resources
 
