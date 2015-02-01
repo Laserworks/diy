@@ -71,7 +71,7 @@ When playing with the laser, I accidentally used wrong resistor and destroyed th
 
 ### 2015-02-01 Update
 
-Ryan from Kentucky donated 50 EUR, thank you. I ordered a new laser.
+Ryan from Kentucky donated 50 EUR &ndash; thank you very much Ryan. I ordered a new laser.
 
 ## Resources
 
