@@ -22,6 +22,12 @@ We take here Silhouette Portrait blade cutter and replace the blade with a 500mW
 
 ## Wiring
 
+### 2015-02-17 Update
+
+The (deprecated) wiring schema below is not safe because it cannot gurantee constant current and can destroy your laser. You should rather buy a [constant current laser driver](http://www.ebay.com/itm/3-5-5V-Power-Supply-Driver-for-1-250mw-405nm-Violet-Blue-Laser-9x20mm-/121210899662?pt=LH_DefaultDomain_0&hash=item1c38bb8cce) or [assemble one](http://www.instructables.com/id/How-to-build-a-laser-general-guide/step5/Step-3-Driver/).
+
+### Deprecated Wiring Schema
+
 The vendor claims the laser should operate at `5V` to `5.5V`, at `200mA` to `260mA`. 
 We start with `5V` at `200mA`. We will use `12V` power source and we need to compute what resistor should we place in series with the laser to achieve `5V` and `200mA` at the laser.
 
