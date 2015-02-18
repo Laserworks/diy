@@ -102,7 +102,7 @@ Compared to self adhesive vinyl sheets, frisket film is (from my experience) les
 
 ### Summary of Stencil Materials
 
-|Material 			| Price per A4 Sheet  | Can be used multiple times?
+|Material 			| Price per A4 Sheet  | Can be used multiple times as stencil?
 |-------------------------------|:-------------:|:---------------------:|:
 |Laminating Sheet		| 0.13 USD	| yes
 |Mylar Sheet			| 1.4 USD	| yes 
