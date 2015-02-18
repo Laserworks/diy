@@ -115,13 +115,13 @@ Compared to self adhesive vinyl sheets, frisket film is (from my experience) les
 
 First cost optimization is to avoid wasting sheet space, i.e. position the design elements in SVG so that you keep as much sheet area intact as possible. This way you can use the unused parts of a sheet later, typically when you will cut something smaller.
 
-Next cost saving is to care for your cutting blade &ndash; do not expose the blade more than is necessary for the material, otherwise the blade shoud wear out faster and apart from cutting the sheet it will also cut into the cutting mat, which is useless.
+Next cost saving is to take care of your cutting blade &ndash; do not expose the blade more than is necessary for the material, otherwise the blade may wear out faster and along with cutting the sheet it will also cut into the cutting mat, which is useless.
 
-Finally, I cut on slow speeds which reduces the risk of wasting the sheet (mostly an issue of intricate designs being cut on thin material). I use speed 2 in in [Robocut](https://github.com/nosliwneb/robocut).
+Finally, I cut on slow speeds thus reducing the risk of wasting the sheet (mostly an issue of intricate designs being cut on thin material). I use speed 2 in [Robocut](https://github.com/nosliwneb/robocut).
 
 ## Summary
 
-To sum up, for most of my work (which is horizontal stenciling), I use laminating sheets and cut them with CB09 Graphtec blades on slow speed. 
+To sum up, for most of my cutting jobs (which is horizontal stenciling), I use laminating sheets and cut them with CB09 Graphtec blades on slow speed. 
 
 If you have additional experience or any questions, you are welcome in discussion below.
 
