@@ -24,7 +24,7 @@ You can save money at least in two ways here:
 
 Chances are you will find your desired SVG on [Flaticon](http://www.flaticon.com/) free vector gallery. If not, simply start with some bitmap image you discover via Google Images Search. 
 As an example, we start here searching for ["men shaking hands vector"](https://www.google.sk/search?q=men+shaking+hands+vector&safe=off&espv=2&biw=871&bih=859&source=lnms&tbm=isch&sa=X).
-We download the JPG sample of the persons shaking hands. Video below depicting how to convert the JPG into SVG using Inkscape.
+We download the JPG sample of the persons shaking hands. Video below depicts how to convert the JPG into SVG using Inkscape.
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/Dci3AU5yR_M" frameborder="0" allowfullscreen></iframe>
 
