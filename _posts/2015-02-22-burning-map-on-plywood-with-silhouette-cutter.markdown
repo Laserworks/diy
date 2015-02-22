@@ -18,7 +18,7 @@ Here is the outcome:
 
 ![Laser Burn Map on Plywood with Silhouette Cutter]({{site.baseurl}}/images/lasermap-03.jpg "Laser Burn Map on Plywood with Silhouette Cutter")
 
-[Here is the original svg vector image]({{site.baseurl}}/images/lasermap-bratislava.svg) used for cutting and here is an preview in jpg:
+[Here is the original svg vector image]({{site.baseurl}}/images/lasermap-bratislava.svg) used for cutting and here is a preview in jpg:
 
 ![Laser Burn Map on Plywood with Silhouette Cutter]({{site.baseurl}}/images/lasermap-bratislava-src.jpg "Laser Burn Map on Plywood with Silhouette Cutter")
 
