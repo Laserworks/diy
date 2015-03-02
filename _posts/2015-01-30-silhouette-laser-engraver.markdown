@@ -1,8 +1,12 @@
 ---
 layout: post
-title:  "Laser Engraver Made of Silhouette Blade Cutter"
+title:  "Proof of Concept: Laser Engraver Made of Silhouette Blade Cutter"
 date:   2015-01-30 20:00:0
 ---
+
+__This post is outdated, you will find more useful info in this [extended and more detailed series of blogposts on laser burning/engraving]({{site.baseurl}}/2015/02/22/burning-map-on-plywood-with-silhouette-cutter.html)__.
+
+--------------
 
 We take here Silhouette Portrait blade cutter and replace the blade with a 500mW laser.
 
