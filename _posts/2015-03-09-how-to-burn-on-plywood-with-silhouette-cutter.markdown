@@ -6,10 +6,10 @@ date:   2015-03-09 20:00:0
 
 This is a series of posts on laser burning/engraving with [Silhouette blade cutter](http://www.silhouetteamerica.com/shop):
 
-1. [Demo: Laser Burn Map on Plywood with Silhouette Cutter]({{site.baseurl}}//2015/02/22/burning-map-on-plywood-with-silhouette-cutter.html)
+1. [Demo: Laser Burn Map on Plywood with Silhouette Cutter]({{site.baseurl}}/2015/02/22/burning-map-on-plywood-with-silhouette-cutter.html)
 2. [How To Replace Silhouette Blade with Laser]({{site.baseurl}}/2015/03/02/how-to-replace-silhouette-blade-with-laser.html)
 3. __How to Burn on Plywood__ -- you are reading this right now
-4. How to Prepare Images/Vectors for Laser Burning  -- to be done
+4. [How to Prepare Images/Vectors for Laser Burning]({{site.baseurl}}/2015/03/22/how-to-prepare-images-for-laser-burning.html)
 
 <span style=" background-color: yellow; padding: 10px; font-weight: 800 !important"> WARNING: [Be extremely cautious](http://www.laserpointersafety.com/laser-hazards_head-eyes/laser-hazards_head-eyes.html) when playing with lasers, you may easily damage your sight.</span>
 
