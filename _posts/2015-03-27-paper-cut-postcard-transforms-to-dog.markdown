@@ -11,7 +11,7 @@ This is how the postcard looks when delivered:
 
 ![Paper cut postcard]({{site.baseurl}}/images/2015-03-27-postcard/01.jpg "Paper cut postcard")
 
-Now the recipient will take a part of the postcard shaped as bone and transforms the postcard into a self--standing U--shape to emphasize dog's ears, eyes, paws and tail:
+Now the recipient will take the part of the postcard shaped as bone and transforms the postcard into a self--standing U--shape to emphasize dog's ears, eyes, paws and tail:
 
 ![Self--standing paper cut postcard with dog head]({{site.baseurl}}/images/2015-03-27-postcard/02.jpg "Self--standing paper cut postcard with dog head")
 
