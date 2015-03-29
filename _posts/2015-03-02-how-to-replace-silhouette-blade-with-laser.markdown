@@ -17,15 +17,19 @@ This is a series of posts on laser burning/engraving with [Silhouette blade cutt
 
 ## Bill of Material
 
-* [405nm--473nm Laser Protection Goggles](http://www.ebay.com/itm/141503872259)
-* [Silhouette Portrait](http://www.silhouetteamerica.com/shop/machines/portrait) blade cutter
-* [405nm 500mW Laser](http://www.ebay.com/itm/131399368831)
-* [12V 500mA+ Power Source](http://www.ebay.com/itm/251791463409)
-* [LM7805 Voltage Regulator](http://www.ebay.com/itm/130747602965)
+* [405nm--473nm laser protection goggles](http://www.ebay.com/itm/141503872259)
+* [Silhouette portrait](http://www.silhouetteamerica.com/shop/machines/portrait) blade cutter
+* [405nm 500mW laser](http://www.ebay.com/itm/131399368831)
+* [12V 500mA+ power source](http://www.ebay.com/itm/251791463409)
+* [LM7805 voltage regulator](http://www.ebay.com/itm/130747602965)
 * [47uF](http://www.ebay.com/itm/260814969015) capacitor 
 * 16 ohm resistor
 * wires
-* Optional: [thermometer with probe](http://www.ebay.com/itm/121514792721)
+
+Optional (but recommended): 
+
+* [heatsink](http://www.ebay.com/itm/261113766519)
+* [thermometer with probe](http://www.ebay.com/itm/121514792721)
 
 ## Wiring
 
@@ -77,6 +81,14 @@ Here is the overall view:
 
 The wires between laser and breadboard should be long enough to allow movement of the Silhouette cutting head from left to right and vice versa.
 
+### Secure the Laser Position with Heatsink
+
+If you can afford it I advise you to use heatsink. When using heatsink, it is not possible to insert the laser into the blade mount due to its size. Instead, you can secure the laser and heatsink as depicked in images below. The power on/off mechanism remains the same.
+
+![Laser with Heatsink]({{site.baseurl}}/images/laser-wiring-06.jpg "Laser with Heatsink")
+
+![Laser with Heatsink]({{site.baseurl}}/images/laser-wiring-07.jpg "Laser with Heatsink")
+
 ## Laser Temperature
 
 The optional thermometer is there to estimate the laser temperature.
@@ -84,23 +96,23 @@ The [datasheet](http://www.prophotonix.com/uploads/datasheets/Ushio046.pdf) clai
 
 Following table depicts thermal behavior of the `500mW` laser when driven with `312mA`.
 
-| Time [min:sec] | Temperature [C] | Notes                                          |
+| Time [min:sec] | Temp [C] | Temp with Heatsink [C] |  Notes                                          |
 |--------------|-----------------|------------------------------------------------|
-| 0:00         | 25              | room temperature, laser is turned on right now |
-| 1:00         | 29              |                                                |
-| 2:00         | 35              |                                                |
-| 2:30         | 38              | turning off the laser                          |
-| 3:00         | 40              |                                                |
-| 4:00         | 39              |                                                |
-| 5:00         | 36              |                                                |
-| 6:00         | 33.5            |                                                |
-| 7:00         | 31.5            |                                                |
+| 0:00         | 25   |  25         | room temperature, laser is turned on right now |
+| 1:00         | 29   |  26         |                                                |
+| 2:00         | 35   |  28         |                                                |
+| 2:30         | 38   |  29.3         | turning off the laser                          |
+| 3:00         | 40   |  30.4         |                                                |
+| 4:00         | 39   |  31.3         |                                                |
+| 5:00         | 36   |  31.3         |                                                |
+| 6:00         | 33.5 |  30.9         |                                                |
+| 7:00         | 31.5 |  30.2         |                                                |
 
-If you want to extend the laser lifespan, you can e.g., run the laser for 2 minutes, then press Pause button on Silhouette cutter, wait for 3 minutes and then press the Pause button again to continue. One can imagine an arduino-based circuit which will take care of this.
+If you want to extend the laser lifespan, you should definitely use the heatsink. Without heatsink, you should run the laser for 2 minutes, then press Pause button on Silhouette cutter, wait for 3 minutes and then press the Pause button again to continue. One can imagine an arduino-based circuit which will take care of this.
 
 ## Optical Power of the Laser Diode
 
-The diode has max optical power output `500mW`. As we will see in further posts, you cannot use less powerful laser because the Silhouette cutting head is moving quite fast even at the lowest speed. You can use more powerful diode (e.g., [2W](http://www.ebay.com/itm/2W-445nm-M-Type-M140-Blue-Laser-Diode-Copper-Module-W-Leads-Aixiz-Glass-Lens-/170892986250?)), but such a diode will quickly overheat without a heatsink. There is not enough space on the cutting head for a [regular heat sink](http://www.ebay.com/itm/201248127131), but [this small one looks promising](http://www.ebay.com/itm/261113766519).
+The diode has max optical power output `500mW`. As we will see in further posts, you cannot use less powerful laser because the Silhouette cutting head is moving quite fast even at the lowest speed. You can use more powerful diode (e.g., [2W](http://www.ebay.com/itm/2W-445nm-M-Type-M140-Blue-Laser-Diode-Copper-Module-W-Leads-Aixiz-Glass-Lens-/170892986250?)), but you must use heasink with such poweful diode.
 
 ## Focal Distance
 

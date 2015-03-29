@@ -29,7 +29,7 @@ The rear side of the postcard includes assembly instructions:
 
 The assembly instructions are applied using stamp from rubber foam (I am not sure what is the proper name of the material -- in Slovak it is called [_moss rubber_](http://www.hobby-kreativ.sk/hobby-kreativ/eshop/40-1-MACHOVA-GUMA)).
 
-To create the stamp, [I replace the Silhouette's cutting blade with a laser](https://petervojtek.github.io/diy/2015/02/22/burning-map-on-plywood-with-silhouette-cutter.html) and engrave assembly instructions into the rubber:
+To create the stamp, [I replace the Silhouette's cutting blade with a laser](https://petervojtek.github.io/diy/2015/03/02/how-to-replace-silhouette-blade-with-laser.html) and engrave assembly instructions into the rubber:
 
 ![Laser engraved stamp with assembly instructions]({{site.baseurl}}/images/2015-03-27-postcard/04.jpg "Laser engraved stamp with assembly instructions")
 
