@@ -39,4 +39,9 @@ You can download the [postcard vector design here]({{site.baseurl}}/images/2015-
 
 If you don't have a blade cutter to cut the postcard, you can order the postcards from my [etsy shop](https://www.etsy.com/listing/227791931/2-paper-cut-postcards-transformable-into).
 
+### Similar Projects
+
+* [Visualizing Daily Life via Postcards](http://thecreatorsproject.vice.com/blog/inside-dear-data-a-year-long-experiment-in-visualizing-daily-life)
+* [Beautiful Pop up Cards](https://www.etsy.com/listing/129906527/handmade-vintage-sailboat-pop-up-card-3d)
+
 
