@@ -11,7 +11,7 @@ I employed [blade cutter machine](http://www.silhouetteamerica.com/shop) to crea
 
 ![Arduino-themed Pop up Card]({{site.baseurl}}/images/2015-03-31-greetings-from-hackerspace/02.jpg "Arduino-themed Pop up Card")
 
-My intention was to visualize Arduino UNO rev3 (if you were not able to to recognize it, I failed :)
+My intention was to visualize Arduino UNO (if you were not able to recognize it, I failed :)
 The chip is meant to be Atmega328:
 
 ![Arduino-themed Pop up Card]({{site.baseurl}}/images/2015-03-31-greetings-from-hackerspace/03.jpg "Arduino-themed Pop up Card")
