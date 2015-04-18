@@ -19,7 +19,7 @@ For a comparison, here is [rendered 3D panorama view](http://www.udeuschle.selfh
 
 ![Poľana Volcano panorama view]({{site.baseurl}}/images/2015-04-18-3d-terrain-relief/08.jpg "Poľana Volcano")
 
-And for a comparison, on the right side is my first prototype assembled with slightly different technique not explained in this blogpost:
+On the right side is my first prototype assembled with slightly different technique not explained in this blogpost:
 
 ![Poľana Volcano cut from paper]({{site.baseurl}}/images/2015-04-18-3d-terrain-relief/04.jpg "Poľana Volcano cut from paper")
 
