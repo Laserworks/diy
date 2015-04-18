@@ -4,7 +4,7 @@ title:  "How to Create 3D Paper Model of Poľana Volcano"
 date:   2015-04-18 20:00:0
 ---
 
-Slovakia has no active volcanos, but we have some inactive ones and the most famous is probably Poľana ([more info](http://slovakia.travel/en/polana-volcano-vulkan-polana), [map](http://goo.gl/8WPb6q)) due to its disctinctive shape of [caldera](http://en.wikipedia.org/wiki/Caldera). 
+Slovakia has no active volcanos, but we have some inactive ones and probably the most famous is Poľana ([more info](http://slovakia.travel/en/polana-volcano-vulkan-polana), [map](http://goo.gl/8WPb6q)) due to its disctinctive shape of [caldera](http://en.wikipedia.org/wiki/Caldera). 
 
 In this article, I will explain how to create a SVG paper model of the volcano ready for [blade cutter machine](http://www.silhouetteamerica.com/shop). The source codes below can be used to generate such a 3D model of any terrain.
 
