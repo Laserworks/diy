@@ -19,6 +19,13 @@ The area captured by the model is visible on the map below:
 
 <iframe width="100%" height="400px" frameBorder="0" src="https://umap.openstreetmap.fr/en/map/3d-model-of-mt-everest_36869?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
 
+The 3D panorama rendered view is [available here](http://www.udeuschle.selfhost.pro/panoramas/panqueryfull.aspx?mode=newstandard&data=lon%3A86.82701%24%24%24lat%3A27.96984%24%24%24alt%3A8000%24%24%24altcam%3A6%24%24%24hialt%3Afalse%24%24%24resolution%3A20%24%24%24azimut%3A88.3%24%24%24sweep%3A70%24%24%24leftbound%3A53.3%24%24%24rightbound%3A123.3%24%24%24split%3A60%24%24%24splitnr%3A2%24%24%24tilt%3A0.25%24%24%24tiltsplit%3Afalse%24%24%24elexagg%3A1%24%24%24range%3A15%24%24%24colorcoding%3Atrue%24%24%24colorcodinglimit%3A21%24%24%24title%3AZugspitze%24%24%24description%3A%24%24%24email%3A%24%24%24language%3Aen%24%24%24screenwidth%3A1920%24%24%24screenheight%3A1055):
+
+![Mt. Everest Panorama View]({{site.baseurl}}/images/2015-04-20-mt-everest/panorama.png "Mt. Everest Panorama View")
+
+## Photo Gallery
+
+
 ![3D Paper Model of Mt. Everest]({{site.baseurl}}/images/2015-04-20-mt-everest/06.jpg "3D Paper Model of Mt. Everest")
 
 ![3D Paper Model of Mt. Everest]({{site.baseurl}}/images/2015-04-20-mt-everest/08.jpg "3D Paper Model of Mt. Everest")
