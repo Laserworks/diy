@@ -27,3 +27,5 @@ More photos:
 ![3D Paper Model of Hydro Power Plant Čierny Váh]({{site.baseurl}}/images/2015-04-24-pve-cierny-vah/01.jpg "3D Paper Model of Hydro Power Plant Čierny Váh")
 
 ![3D Paper Model of Hydro Power Plant Čierny Váh]({{site.baseurl}}/images/2015-04-24-pve-cierny-vah/04.jpg "3D Paper Model of Hydro Power Plant Čierny Váh")
+
+[Download the SVG template of the model](https://github.com/petervojtek/diy/blob/gh-pages/images/2015-04-24-pve-cierny-vah/cierny-vah.svg).
