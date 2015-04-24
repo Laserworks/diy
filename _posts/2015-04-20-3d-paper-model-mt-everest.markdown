@@ -8,6 +8,8 @@ Employing the same technique as with the [Poľana volcano](https://petervojtek.g
 
 ![3D Paper Model of Mt. Everest]({{site.baseurl}}/images/2015-04-20-mt-everest/02.jpg "3D Paper Model of Mt. Everest")
 
+![3D Paper Model of Mt. Everest]({{site.baseurl}}/images/2015-04-20-mt-everest/mt-everest.gif "3D Paper Model of Mt. Everest")
+
 More photos are below.
 You can [buy the model from my Etsy shop](https://www.etsy.com/listing/230547170/mt-everest-3d-paper-model).
 

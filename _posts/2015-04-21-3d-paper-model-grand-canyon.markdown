@@ -8,6 +8,8 @@ This page provides additional details and map for 3D paper model of Grand Canyon
 
 ![3D Paper Model of Grand Canyon (Horseshoe Bend View)]({{site.baseurl}}/images/2015-04-21-grand-canyon/09.jpg "3D Paper Model of Grand Canyon (Horseshoe Bend View)")
 
+![3D Paper Model of Grand Canyon (Horseshoe Bend View)]({{site.baseurl}}/images/2015-04-21-grand-canyon/grand-canyon.gif "3D Paper Model of Grand Canyon (Horseshoe Bend View)")
+
 The "river" piece of paper has an arrow which indicates water flow direction.
 
 ![3D Paper Model of Grand Canyon (Horseshoe Bend View)]({{site.baseurl}}/images/2015-04-21-grand-canyon/07.jpg "3D Paper Model of Grand Canyon (Horseshoe Bend View)")
