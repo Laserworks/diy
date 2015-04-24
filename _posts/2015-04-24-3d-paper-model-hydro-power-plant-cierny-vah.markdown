@@ -8,6 +8,8 @@ date:   2015-04-24 20:00:0
 
 ![3D Paper Model of Hydro Power Plant Čierny Váh]({{site.baseurl}}/images/2015-04-24-pve-cierny-vah/08.jpg "3D Paper Model of Hydro Power Plant Čierny Váh")
 
+![3D Paper Model of Hydro Power Plant Čierny Váh]({{site.baseurl}}/images/2015-04-24-pve-cierny-vah/cierny-vah.gif "3D Paper Model of Hydro Power Plant Čierny Váh")
+
 Model scale is `1:25000` and model is oriented towards west. The "pacman" sign indicates north direction. "PVE" on the base paper stands for "Prečerpávacia vodná elektráreň" (Pumped storage hydro power plant).
 
 The upper and lower reservoirs are connected via pipe passing through the mountain as visible in the detail:
