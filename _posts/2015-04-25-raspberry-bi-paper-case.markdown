@@ -12,7 +12,7 @@ There are [tons of enclosures for your RPi](https://www.google.sk/search?q=raspb
 
 ![Paper Case for Raspberry Pi Model B]({{site.baseurl}}/images/2015-04-25-raspberry-bi-paper-case/08.jpg "Paper Case for Raspberry Pi Model B")
 
-[The vector (SVG) template is available on github]().
+[The vector (SVG) template is available on github](https://github.com/petervojtek/diy/tree/gh-pages/images/2015-04-25-raspberry-bi-paper-case).
 
 Actually, I would like to produce enclosure for Raspberry Pi 2 model B, but I do not have RPi 2B board to test it. If anyone will send me [38.35 Euro to buy a RPi 2B board](http://www.rlx.sk/sk/arm-broadcom-multimedia-applications-processor/3547-raspberry-pi-2-model-b-quad-core-800mhz1gb-lpddr2-bcm2836-2461029.html) I will design a similar enclosure for RPi 2B and send the paper case to the one who donated (you can choose paper color). 
 
