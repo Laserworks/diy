@@ -4,7 +4,7 @@ title:  "Yet Another Paper Case for Raspberry Pi"
 date:   2015-04-24 20:00:0
 ---
 
-There are [tons of enclosures for your RPi](https://www.google.sk/search?q=raspberry+pi+case&safe=off&espv=2&biw=1278&bih=945&source=lnms&tbm=isch&sa=X) but as far as I know only few [made of paper](https://www.raspberrypi.org/the-punnet-a-card-case-for-you-to-print-for-free/) so far. Here is my attempt to bring more variety to the paper enclosures. This one is suitable for RPI 1 models A and B.
+There are [tons of enclosures for your RPi](https://www.google.sk/search?q=raspberry+pi+case&safe=off&espv=2&biw=1278&bih=945&source=lnms&tbm=isch&sa=X) but as far as I know only few [made of paper](https://www.raspberrypi.org/the-punnet-a-card-case-for-you-to-print-for-free/) so far. Here is my attempt to bring more variety to the paper enclosures. This one is suitable for RPi 1 models A and B.
 
 ![Paper Case for Raspberry Pi Model B]({{site.baseurl}}/images/2015-04-25-raspberry-bi-paper-case/05.jpg "Paper Case for Raspberry Pi Model B")
 
@@ -14,7 +14,7 @@ There are [tons of enclosures for your RPi](https://www.google.sk/search?q=raspb
 
 [The vector (SVG) template is available on github](https://github.com/petervojtek/diy/tree/gh-pages/images/2015-04-25-raspberry-bi-paper-case).
 
-Actually, I would like to produce enclosure for Raspberry Pi 2 model B, but I do not have RPi 2B board to test it. If anyone will send me [38.35 Euro to buy a RPi 2B board](http://www.rlx.sk/sk/arm-broadcom-multimedia-applications-processor/3547-raspberry-pi-2-model-b-quad-core-800mhz1gb-lpddr2-bcm2836-2461029.html) I will design a similar enclosure for RPi 2B and send the paper case to the one who donated (you can choose paper color). 
+Actually, I would like to produce enclosure for Raspberry Pi 2 model B, but I do not have RPi 2 B board to test it. If anyone will send me [38.35 Euro to buy an RPi 2 B board](http://www.rlx.sk/sk/arm-broadcom-multimedia-applications-processor/3547-raspberry-pi-2-model-b-quad-core-800mhz1gb-lpddr2-bcm2836-2461029.html) I will design a similar enclosure for RPi 2 B and send the paper case to the one who donated (you can choose paper color). 
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -23,6 +23,7 @@ Actually, I would like to produce enclosure for Raspberry Pi 2 model B, but I do
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+
 
 Here are more photos of the B model enclosure:
 
