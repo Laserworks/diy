@@ -17,7 +17,7 @@ Each horizontal paper layer equals to 200 meters of altitude. There are 13 horiz
 
 ![3D Paper Model of Mt. Fuji]({{site.baseurl}}/images/2015-04-28-mt-fuji-paper-model/11.jpg "3D Paper Model of Mt. Fuji")
 
-[The SVG for paper/laser cutting is available on github]().
+[The SVG for paper/laser cutting is available on github](https://github.com/petervojtek/diy/blob/gh-pages/images/2015-04-28-mt-fuji-paper-model/mt-fuji.svg).
 
 I gathered the elevation levels curves using [Maperitive](http://maperitive.net/). The steps are following:
 
