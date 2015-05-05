@@ -6,7 +6,7 @@ date:   2015-05-05 20:00:0
 
 I like [picNYC TABLE](http://haikocornelissen.com/work/picnyc-table/) project but the plates and glass are put directly on the soil which is far from flat and thus beverage coasters are required.
 
-On my balcony I employed different approach to avoid the beverage coasters and the outcome is following:
+On our balcony I employed different approach to avoid the beverage coasters and the outcome is following:
 
 ![Coaster-less Grass-covered Platform for Drinks]({{site.baseurl}}/images/2015-05-05-grass-table/04.jpg "Coaster-less Grass-covered Platform for Drinks")
 
