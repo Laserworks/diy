@@ -35,4 +35,4 @@ Rear view:
 
 ![Dahala Khagrabari Paper Model]({{site.baseurl}}/images/2015-05-06-dahala-Khagrabari/10.jpg "Dahala Khagrabari Paper Model")
 
-I used [Maperitive](http://maperitive.net/), [OpenStreetMap](https://wiki.openstreetmap.org/wiki/Main_Page) data and [Inkscape](https://inkscape.org/en/) to create SVG for [paper cutting machine](http://www.amazon.com/Silhouette-SILHOUETTE-PORTRAIT-Portrait/dp/B009GZUPFA). [The SVG for cutting is here on github](https://github.com/petervojtek/diy/blob/gh-pages/images/2015-05-06-dahala-khagabari/dahala-khagabari.svg).
+I used [Maperitive](http://maperitive.net/), [OpenStreetMap](https://wiki.openstreetmap.org/wiki/Main_Page) data and [Inkscape](https://inkscape.org/en/) to create SVG for [paper cutting machine](http://www.amazon.com/Silhouette-SILHOUETTE-PORTRAIT-Portrait/dp/B009GZUPFA). [The SVG for cutting is here on github](https://github.com/petervojtek/diy/blob/gh-pages/images/2015-05-06-dahala-khagrabari/dahala-khagabari.svg).
