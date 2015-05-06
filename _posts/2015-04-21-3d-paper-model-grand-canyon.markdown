@@ -2,6 +2,10 @@
 layout: post
 title:  "3D Paper Model of Grand Canyon (Horseshoe Bend View)"
 date:   2015-04-21 20:00:0
+tags:
+- 3D model
+- paper
+- terrain
 ---
 
 This page provides additional details and map for 3D paper model of Grand Canyon available from my [Etsy shop](https://www.etsy.com/listing/230675874/grand-canyon-3d-paper-model).

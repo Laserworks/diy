@@ -2,6 +2,9 @@
 layout: post
 title:  "Proof of Concept: Laser Engraver Made of Silhouette Blade Cutter"
 date:   2015-01-30 20:00:0
+tags:
+- laser
+- outdated
 ---
 
 __This post is outdated, you will find more useful info in this [extended and more detailed series of blogposts on laser burning/engraving]({{site.baseurl}}/2015/02/22/burning-map-on-plywood-with-silhouette-cutter.html)__.

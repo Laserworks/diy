@@ -2,6 +2,8 @@
 layout: post
 title:  "How To Replace Silhouette Blade with Laser"
 date:   2015-03-02 20:00:0
+tags:
+- laser
 ---
 
 This is a series of posts on laser burning/engraving with [Silhouette blade cutter](http://www.silhouetteamerica.com/shop):

@@ -2,6 +2,10 @@
 layout: post
 title:  "3D Paper Model of Mt. Fuji"
 date:   2015-04-28 20:00:0
+tags:
+- 3D model
+- paper
+- terrain
 ---
 
 I employed different terrain modeling technique than in previous models to highlight elevation levels.

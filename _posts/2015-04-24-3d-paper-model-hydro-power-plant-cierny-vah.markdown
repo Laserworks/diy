@@ -2,6 +2,10 @@
 layout: post
 title:  "3D Paper Model of Hydro Power Plant Čierny Váh"
 date:   2015-04-24 20:00:0
+tags:
+- 3D model
+- paper
+- terrain
 ---
 
  [Čierny Váh](http://www.skcold.sk/priehrady/nova_databaza_priehrad/pve_cierny_vah/) is the only [pumped storage hydro power plant](http://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity) in [Slovakia](http://goo.gl/TOS0Ic). 

@@ -2,6 +2,9 @@
 layout: post
 title:  "Grass-decorated (Bar) Desk for Drinks"
 date:   2015-05-05 20:00:0
+tags:
+- grass
+- gardening
 ---
 
 I like [picNYC TABLE](http://haikocornelissen.com/work/picnyc-table/) project but the plates and glass are put directly on the soil which is far from flat and thus beverage coasters are required.

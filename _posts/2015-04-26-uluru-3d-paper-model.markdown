@@ -2,6 +2,10 @@
 layout: post
 title:  "3D Paper Model of Uluru (Ayers Rock)"
 date:   2015-04-26 20:00:0
+tags:
+- 3D model
+- paper
+- terrain
 ---
 
 The most famous [australian rock](http://en.wikipedia.org/wiki/Uluru) cut from paper:

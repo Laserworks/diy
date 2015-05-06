@@ -2,6 +2,10 @@
 layout: post
 title:  "3D Paper Model of Mt. Everest"
 date:   2015-04-20 20:00:0
+tags:
+- 3D model
+- paper
+- terrain
 ---
 
 Employing the same technique as with the [Poľana volcano](https://petervojtek.github.io/diy/2015/04/18/3d-paper-model-of-polana-volcano.html) I created 3D model of Mt. Everest:

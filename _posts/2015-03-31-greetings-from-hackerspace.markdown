@@ -2,6 +2,10 @@
 layout: post
 title:  "Greetings from Hackerspace: Arduino-themed Pop up Card"
 date:   2015-03-31 20:00:0
+tags:
+- paper
+- card
+- arduino
 ---
 
 I employed [blade cutter machine](http://www.silhouetteamerica.com/shop) to create a 3D pop up card from paper.

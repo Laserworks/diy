@@ -2,6 +2,8 @@
 layout: post
 title:  "Is This the Most Minimal Working Desk?"
 date:   2015-02-13 20:00:0
+tags:
+- minimalism
 ---
 
 I use notebook with external display, wireless keyboard and mouse and my table is organized this way:

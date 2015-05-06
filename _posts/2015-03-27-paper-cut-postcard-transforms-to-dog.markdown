@@ -2,6 +2,9 @@
 layout: post
 title:  "Paper Cut Postcard Which Transforms into a Dog"
 date:   2015-03-27 20:00:0
+tags:
+- paper
+- postcard
 ---
 
 We use [Silhouette blade cutter](http://www.silhouetteamerica.com/shop) to create a postcard which (after successful delivery) can be transformed into a self--standing dog.

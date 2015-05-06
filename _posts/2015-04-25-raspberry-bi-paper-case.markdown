@@ -2,6 +2,10 @@
 layout: post
 title:  "Yet Another Paper Case for Raspberry Pi"
 date:   2015-04-24 20:00:0
+tags:
+- enclosure
+- paper
+- Raspberry Pi
 ---
 
 There are [tons of enclosures for your RPi](https://www.google.sk/search?q=raspberry+pi+case&safe=off&espv=2&biw=1278&bih=945&source=lnms&tbm=isch&sa=X) but as far as I know only few [made of paper](https://www.raspberrypi.org/the-punnet-a-card-case-for-you-to-print-for-free/) so far. Here is my attempt to bring more variety to the paper enclosures. This one is suitable for RPi 1 models A and B.

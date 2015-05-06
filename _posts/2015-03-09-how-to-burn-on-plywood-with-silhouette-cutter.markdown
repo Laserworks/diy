@@ -2,6 +2,8 @@
 layout: post
 title:  "How to Burn on Plywood with Silhouette (Laser) Cutter"
 date:   2015-03-09 20:00:0
+tags:
+- laser
 ---
 
 This is a series of posts on laser burning/engraving with [Silhouette blade cutter](http://www.silhouetteamerica.com/shop):
