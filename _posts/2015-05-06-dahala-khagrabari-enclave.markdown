@@ -19,7 +19,7 @@ tags:
 I created a paper model to visualize this part of Indo--Bangladesh borderline. 
 Red paper belongs to Bangladesh, beige paper is Indian land.
 
-The colored papers are layered to emphasizes how deeply is Dahala Khagrabari embedded and do not correspond to elevation of the terrain (which is actually almost flat):
+The colored papers are layered to emphasize how deeply is Dahala Khagrabari embedded and do not correspond to elevation of the terrain (which is actually almost flat):
 
 ![Dahala Khagrabari Paper Model]({{site.baseurl}}/images/2015-05-06-dahala-khagrabari/06.jpg "Dahala Khagrabari Paper Model")
 
@@ -35,4 +35,5 @@ Rear view:
 
 ![Dahala Khagrabari Paper Model]({{site.baseurl}}/images/2015-05-06-dahala-khagrabari/10.jpg "Dahala Khagrabari Paper Model")
 
-I used [Maperitive](http://maperitive.net/), [OpenStreetMap](https://wiki.openstreetmap.org/wiki/Main_Page) data and [Inkscape](https://inkscape.org/en/) to create SVG for [paper cutting machine](http://www.amazon.com/Silhouette-SILHOUETTE-PORTRAIT-Portrait/dp/B009GZUPFA). [The SVG for cutting is here on github](https://github.com/petervojtek/diy/blob/gh-pages/images/2015-05-06-dahala-khagrabari/dahala-khagrabari.svg).
+I used [Maperitive](http://maperitive.net/), [OpenStreetMap](https://wiki.openstreetmap.org/wiki/Main_Page) data and [Inkscape](https://inkscape.org/en/) to create SVG for [paper cutting machine](http://www.amazon.com/Silhouette-SILHOUETTE-PORTRAIT-Portrait/dp/B009GZUPFA). 
+[The SVG is here on github](https://github.com/petervojtek/diy/blob/gh-pages/images/2015-05-06-dahala-khagrabari/dahala-khagrabari.svg).
