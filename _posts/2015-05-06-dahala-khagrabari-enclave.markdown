@@ -12,7 +12,7 @@ tags:
 - borderline
 ---
 
-[Dahala Khagrabari](http://en.wikipedia.org/wiki/Dahala_Khagrabari) is the only third--order [enclave](http://en.wikipedia.org/wiki/Enclave_and_exclave) in the world. According to [wikipedia](http://en.wikipedia.org/wiki/Dahala_Khagrabari), it is __piece of India within Bangladesh, within India, within Bangladesh.__
+[Dahala Khagrabari (#51)](http://en.wikipedia.org/wiki/Dahala_Khagrabari) is the only third--order [enclave](http://en.wikipedia.org/wiki/Enclave_and_exclave) in the world. According to [wikipedia](http://en.wikipedia.org/wiki/Dahala_Khagrabari), it is __piece of India within Bangladesh, within India, within Bangladesh.__
 
 ![Dahala Khagrabari Paper Model]({{site.baseurl}}/images/2015-05-06-dahala-khagrabari/07.jpg "Dahala Khagrabari Paper Model")
 
