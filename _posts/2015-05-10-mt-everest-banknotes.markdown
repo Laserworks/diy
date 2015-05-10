@@ -10,7 +10,7 @@ tags:
 - 3D model
 ---
 
-This paper model is dedicated to _mountaineers_ who approach the peak via [standard routes](http://en.wikipedia.org/wiki/Mount_Everest#Southeast_ridge), use oxygen bottles, _climb_ up the summit using fixed ropes set up by sherpas and [leave their trash on the mountain](http://edition.cnn.com/2015/04/02/travel/feat-mount-everest-trash-pickup-expedition/).
+This paper model is dedicated to _mountaineers_ who approach the peak via [standard routes](http://en.wikipedia.org/wiki/Mount_Everest#Southeast_ridge), use oxygen bottles, _climb_ up the summit using fixed ropes set by sherpas and [leave their trash on the mountain](http://edition.cnn.com/2015/04/02/travel/feat-mount-everest-trash-pickup-expedition/).
 
 ![Mt. Everest Model Made of Banknotes]({{site.baseurl}}/images/2015-05-10-mt-everest-banknotes/04.jpg "Mt. Everest Model Made of Banknotes")
 
