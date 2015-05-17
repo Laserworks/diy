@@ -15,7 +15,8 @@ The [Project management triangle](http://en.wikipedia.org/wiki/Project_managemen
 
 ![Paper Game for Project Managers: Cost -- Time -- Quality]({{site.baseurl}}/images/2015-05-17-time-cost-quality/01.gif "Paper Game for Project Managers: Cost -- Time -- Quality")
 
-The toy is cut from stock paper (110 lb, 300 g/m2), each wheel is made of seven layers of paper.
+The toy is cut from stock paper (110 lb, 300 g/m2). Each wheel is made of seven layers of paper -- number seven is a lucky number and will surely make your project successful :)
+
 The colors are red, orange and yellow.
 
 Dimensions: `5.5" x 5.5" x 0.2"` (`14cm x 14cm x 0.5cm`).
