@@ -22,7 +22,7 @@ Dimensions: `5.5" x 5.5" x 0.2"` (`14cm x 14cm x 0.5cm`).
 
 The paper is strong enough so that you can stand it in vertical position as well.
 
-You can get the paper toy from my [Etsy shop]().
+You can get the paper toy from my [Etsy shop](https://www.etsy.com/listing/233718053/paper-toy-for-project-managers-cost-time?ref=shop_home_active_1).
 
 ![Paper Game for Project Managers: Cost -- Time -- Quality]({{site.baseurl}}/images/2015-05-17-time-cost-quality/02.jpg "Paper Game for Project Managers: Cost -- Time -- Quality")
 
