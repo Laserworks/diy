@@ -58,3 +58,36 @@ The paper model is shipped disassembled in an envelope:
 
 ![3D Paper Model of Grand Canyon (Horseshoe Bend View)]({{site.baseurl}}/images/2015-04-21-grand-canyon/10.jpg "3D Paper Model of Grand Canyon (Horseshoe Bend View)")
 
+## Assembly Instructions
+
+No glue is used and no tools are required, the model is assembled by your bare hands.
+
+Take the red base paper and place is on a table so that the "N" (North) sigh is in front of you.
+
+![3D Paper Model of Grand Canyon (Horseshoe Bend View) - Assembly]({{site.baseurl}}/images/2015-04-21-grand-canyon/a01.jpg "3D Paper Model of Grand Canyon (Horseshoe Bend View) - Assembly")
+
+Straighten the three vertical ribs:
+
+![3D Paper Model of Grand Canyon (Horseshoe Bend View) - Assembly]({{site.baseurl}}/images/2015-04-21-grand-canyon/a02.jpg "3D Paper Model of Grand Canyon (Horseshoe Bend View) - Assembly")
+
+
+There are 24 beige papers, each has a small number from 2 to 24. Only the beige paper No. 1 is without number -- that is the paper with text "GRAND Canyon".
+
+Take the paper No. 24 a put it into the last position so that the number "24" is in front of you.
+The beige papers should fit easily into the red base paper, do not apply force.
+
+![3D Paper Model of Grand Canyon (Horseshoe Bend View) - Assembly]({{site.baseurl}}/images/2015-04-21-grand-canyon/a03.jpg "3D Paper Model of Grand Canyon (Horseshoe Bend View) - Assembly")
+
+Continue with all the remaining beige papers:
+
+![3D Paper Model of Grand Canyon (Horseshoe Bend View) - Assembly]({{site.baseurl}}/images/2015-04-21-grand-canyon/a04.jpg "3D Paper Model of Grand Canyon (Horseshoe Bend View) - Assembly")
+
+And the last step is to insert the blue river paper:
+
+![3D Paper Model of Grand Canyon (Horseshoe Bend View) - Assembly]({{site.baseurl}}/images/2015-04-21-grand-canyon/a05.jpg "3D Paper Model of Grand Canyon (Horseshoe Bend View) - Assembly")
+
+That is all.
+
+
+
+
