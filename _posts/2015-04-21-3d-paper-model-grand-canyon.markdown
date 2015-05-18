@@ -62,7 +62,7 @@ The paper model is shipped disassembled in an envelope:
 
 No glue is used and no tools are required, the model is assembled by your bare hands.
 
-Take the red base paper and place is on a table so that the "N" (North) sigh is in front of you.
+Take the red base paper and place is on a table so that the "N" (North) sigh is in front of you and the north arrow (triangle) points towards right:
 
 ![3D Paper Model of Grand Canyon (Horseshoe Bend View) - Assembly]({{site.baseurl}}/images/2015-04-21-grand-canyon/a01.jpg "3D Paper Model of Grand Canyon (Horseshoe Bend View) - Assembly")
 
