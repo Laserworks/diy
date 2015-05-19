@@ -26,6 +26,6 @@ Here is the outcome (sorted alphabetically):
 | Sri Lanka             | Democratic Socialist Republic of Sri Lanka   | 87/167         | Hybrid regime        |
 
 
-Not a single _democractic_ state (by its name) made it to the category Full democracy as defined by [Democracy index](http://en.wikipedia.org/wiki/Democracy_Index#Democracy_index_by_country_.282014.29).
+Not a single _democractic_ state (by its name) listed in Democracy index list made it to the category Full democracy as defined by [Democracy index](http://en.wikipedia.org/wiki/Democracy_Index#Democracy_index_by_country_.282014.29).
 
 
