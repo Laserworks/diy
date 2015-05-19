@@ -16,15 +16,14 @@ Here is the outcome (sorted alphabetically):
 |-----------------------|----------------------------------------------|----------------|----------------------|
 | Algeria               | People's Democratic Republic of Algeria      | 117/167        | Authoritarian regime |
 | DR Congo              | Democratic Republic of the Congo             | 162/167        | Authoritarian regime |
-| North Korea           | Democratic People's Republic of Korea        | 167/167        | Authoritarian regime |
 | East Timor            | Democratic Republic of Timor-Leste           | 46/167         | Flawed democracy     |
 | Ethiopia              | Federal Democratic Republic of Ethiopia      | 124/167        | Authoritarian regime |
 | Laos                  | Lao People's Democratic Republic             | 157/167        | Authoritarian regime |
+| North Korea           | Democratic People's Republic of Korea        | 167/167        | Authoritarian regime |
 | Nepal                 | Federal Democratic Republic of Nepal         | 105/167        | Hybrid regime        |
-| Western Sahara        | Sahrawi Arab Democratic Republic             | N/A            |                      |
 | São Tomé and Príncipe | Democratic Republic of São Tomé and Príncipe | N/A            |                      |
 | Sri Lanka             | Democratic Socialist Republic of Sri Lanka   | 87/167         | Hybrid regime        |
-
+| Western Sahara        | Sahrawi Arab Democratic Republic             | N/A            |                      |
 
 Not a single _democractic_ state (by its name) listed in Democracy index list made it to the category Full democracy as defined by [Democracy index](http://en.wikipedia.org/wiki/Democracy_Index#Democracy_index_by_country_.282014.29).
 
