@@ -8,7 +8,7 @@ tags:
 - democracy
 ---
 
-I took [List of sovereign states](http://en.wikipedia.org/wiki/List_of_sovereign_states) and picked those state which keep word "democratic" in their full name. Then I took the [Democracy Index list](http://en.wikipedia.org/wiki/Democracy_Index#Democracy_index_by_country_.282014.29) and joined it to the first list.
+I took [List of sovereign states](http://en.wikipedia.org/wiki/List_of_sovereign_states) and picked those states which keep word "democratic" in their full name. Then I took the [Democracy Index list](http://en.wikipedia.org/wiki/Democracy_Index#Democracy_index_by_country_.282014.29) and joined it to the first list.
 
 Here is the outcome (sorted alphabetically):
 
