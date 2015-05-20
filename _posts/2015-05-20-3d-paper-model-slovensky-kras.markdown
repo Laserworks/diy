@@ -18,7 +18,7 @@ _Plešivec_ town is located in the middle of the model, the rear--central plain 
 
 <iframe width="100%" height="400px" frameBorder="0" src="https://umap.openstreetmap.fr/en/map/slovensky-kras_39053?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
 
-The model itself is made of thirteen concentric circles od paper:
+The model itself is made of thirteen concentric circles of paper:
 
 ![3D Paper Model of Slovenský Kras]({{site.baseurl}}/images/2015-05-20-3d-paper-model-slovensky-kras/09.jpg "3D Paper Model of Slovenský Kras")
 
@@ -62,5 +62,5 @@ end
 
 {% endhighlight %}
 
-Remaining steps are almost similar as with the [Poľana volcano](https://petervojtek.github.io/diy/2015/04/18/3d-paper-model-of-polana-volcano.html#how-to-produce-the-svg-for-paper-cutting) model.
+Remaining steps are almost similar to the [Poľana volcano](https://petervojtek.github.io/diy/2015/04/18/3d-paper-model-of-polana-volcano.html#how-to-produce-the-svg-for-paper-cutting) model.
 
