@@ -10,7 +10,7 @@ tags:
 - chile
 ---
 
-[Chuquicamata](http://en.wikipedia.org/wiki/Chuquicamata) is an open pit copper mine in Chile ([map](https://www.openstreetmap.org/#map=14/-22.2847/-68.9026&layers=C)). I employed similar technique as with the [Bingham Canyon Mine](https://petervojtek.github.io/diy/2015/05/22/bingham-canyon-mine.html) but crubmled the paper layers prior to assembly to achieve more _fluffy_ effect.
+[Chuquicamata](http://en.wikipedia.org/wiki/Chuquicamata) is an open pit copper mine in Chile ([map](https://www.openstreetmap.org/#map=14/-22.2847/-68.9026&layers=C)). I employed similar technique as with the [Bingham Canyon Mine](https://petervojtek.github.io/diy/2015/05/22/bingham-canyon-mine.html) but crumbled the paper layers prior to assembly to achieve more _fluffy_ effect.
 
 ![Chuquicamata Mine Paper Model]({{site.baseurl}}/images/2015-05-23-chuquicamata-mine/08.jpg "Chuquicamata Mine Paper Model")
 
