@@ -21,7 +21,9 @@ There are 18 altitude levels (each corresponds to 20m) in model, ranging from 60
 
 ![3D Paper Model of Morské Oko]({{site.baseurl}}/images/2015-05-24-morske-oko/13.jpg "3D Paper Model of Morské Oko")
 
-I tried new technique for this model. First I cut the elevation lines (isolines) of the area and then it took hours to glue the isolines with paper stripes of appropriate width. Following photos exhibit the assembly process.
+I tried new technique for this model. First I cut the elevation lines (isolines) of the area and then it took hours to glue the isolines with paper stripes of appropriate width. Following photos exhibit the creative and assembly process.
+
+![3D Paper Model of Morské Oko]({{site.baseurl}}/images/2015-05-24-morske-oko/14.jpg "3D Paper Model of Morské Oko")
 
 ![3D Paper Model of Morské Oko]({{site.baseurl}}/images/2015-05-24-morske-oko/04.jpg "3D Paper Model of Morské Oko")
 
