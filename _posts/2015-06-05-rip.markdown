@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "3D Paper Model of Říp Mountain"
+date:   2015-06-05 20:00:0
+tags:
+- paper 
+- terrain
+- 3D model
+- czech
+---
+
+[Říp](http://en.wikipedia.org/wiki/%C5%98%C3%ADp_Mountain) is one of the most famous hills in Czech Republic ([map](https://www.openstreetmap.org/#map=15/50.3871/14.2949&layers=C)). 
+The mountain is solitary and thus served well to test a new 3D terrain modeling technique suitable for _lonely_ mountains.
+
+![3D Paper Model of Říp Mountain]({{site.baseurl}}/images/2015-06-05-rip/02.jpg "3D Paper Model of Říp Mountain")
+
+The outline of the model is isoline which corresponds to elevation 320m above sea level, highlighted in blue color. (data source: OpenStreetMap contributors)
+![3D Paper Model of Říp Mountain]({{site.baseurl}}/images/2015-06-05-rip/11.png "3D Paper Model of Říp Mountain")
+
+The arrow on base paper is orientation towards north.
+
+![3D Paper Model of Říp Mountain]({{site.baseurl}}/images/2015-06-05-rip/01.jpg "3D Paper Model of Říp Mountain")
+
+
+This technique has one technical problem I am yet to solve to create more visually attractive models -- when too thick paper is used (300g/m in this model), the paper stripes will break on top (as visible on this model) because thick paper is less flexible. However, if thin flexible paper (e.g., 80 g/m) is used, the paper looks ugly when glued to the white base paper. A lot of glue must be used to properly attach the striped (green) paper onto the white base paper as the green paper is deformed by the forces of the stripe arcs.
+
+More photos:
+
+![3D Paper Model of Říp Mountain]({{site.baseurl}}/images/2015-06-05-rip/06.jpg "3D Paper Model of Říp Mountain")
+
+![3D Paper Model of Říp Mountain]({{site.baseurl}}/images/2015-06-05-rip/07.jpg "3D Paper Model of Říp Mountain")
+
+![3D Paper Model of Říp Mountain]({{site.baseurl}}/images/2015-06-05-rip/08.jpg "3D Paper Model of Říp Mountain")
+
+![3D Paper Model of Říp Mountain]({{site.baseurl}}/images/2015-06-05-rip/10.jpg "3D Paper Model of Říp Mountain")
