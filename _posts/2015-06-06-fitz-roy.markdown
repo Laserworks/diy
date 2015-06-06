@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "3D Paper Model of Cerro Fitz Roy"
+date:   2015-06-06 20:00:0
+tags:
+- paper 
+- terrain
+- 3D model
+- chile
+- argentina
+---
+
+[Mount Fitz Roy](http://en.wikipedia.org/wiki/Fitz_Roy) is on the border between Argentina and Chile ([map](https://www.openstreetmap.org/#map=14/-49.2850/-73.0290&layers=C)).
+
+![3D Paper Model of Cerro Fitz Roy]({{site.baseurl}}/images/2015-06-06-fitz-roy/13.jpg "3D Paper Model of Cerro Fitz Roy")
+
+Arrow on the base paper is direction towards north.
+
+![3D Paper Model of Cerro Fitz Roy]({{site.baseurl}}/images/2015-06-06-fitz-roy/01.jpg "3D Paper Model of Cerro Fitz Roy")
+
+![3D Paper Model of Cerro Fitz Roy]({{site.baseurl}}/images/2015-06-06-fitz-roy/14.jpg "3D Paper Model of Cerro Fitz Roy")
+
+![3D Paper Model of Cerro Fitz Roy]({{site.baseurl}}/images/2015-06-06-fitz-roy/10.jpg "3D Paper Model of Cerro Fitz Roy")
+
+![3D Paper Model of Cerro Fitz Roy]({{site.baseurl}}/images/2015-06-06-fitz-roy/06.jpg "3D Paper Model of Cerro Fitz Roy")
+
+![3D Paper Model of Cerro Fitz Roy]({{site.baseurl}}/images/2015-06-06-fitz-roy/02.jpg "3D Paper Model of Cerro Fitz Roy")
+
+
