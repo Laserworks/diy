@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "3D Paper Model of Shrinking Aral Sea"
+date:   2015-07-14 20:00:0
+tags:
+- paper 
+- terrain
+- 3D model
+- sea
+- shrinking
+---
+
+During the last 60 years [Aral Sea](https://en.wikipedia.org/wiki/Aral_Sea) has almost completely dryed up. This shrinking is considered to be "one of the planet's worst environmental disasters".
+
+I took the surface outlines of Aral Sea [from past 60 years](http://www.unep.org/dewa/vitalwater/article115.html) and combined them together into a single 3D paper cube:
+
+![3D Paper Model of Shrinking Aral Sea]({{site.baseurl}}/images/2015-07-14-aral-sea/02.jpg "3D Paper Model of Shrinking Aral Sea")
+
+![3D Paper Model of Shrinking Aral Sea]({{site.baseurl}}/images/2015-07-14-aral-sea/03.jpg "3D Paper Model of Shrinking Aral Sea")
+
+![3D Paper Model of Shrinking Aral Sea]({{site.baseurl}}/images/2015-07-14-aral-sea/01.jpg "3D Paper Model of Shrinking Aral Sea")
+
+SVG template is here:
+![3D Paper Model of Shrinking Aral Sea]({{site.baseurl}}/images/2015-07-14-aral-sea/aral-sea.svg "3D Paper Model of Shrinking Aral Sea")
+
+
