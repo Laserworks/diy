@@ -4,12 +4,10 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
-
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-<div style="margin-bottom: 20px; padding: 10px; background-color: #F5F5DC;">
+<div class="post-listing">
 
 <div style="display: inline-block;">
 <span class="post-meta">{{ post.date | date: "%Y-%m-%d" }}&nbsp;
@@ -18,12 +16,14 @@ layout: default
       {% endfor %}
 
 </span>
-<p>
-<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-<p>
+
+<h2>
+<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+</h2>
+
 </div>
 <div style="display: inline-block;">
-<img class="post-preview" src="{{ post.thumbnail }}">
+<a href="{{ post.url | prepend: site.baseurl }}"><img class="post-preview" src="{{ post.thumbnail }}"></a>
 </div>
 </div>
 

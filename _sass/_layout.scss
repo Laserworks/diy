@@ -194,8 +194,16 @@
  * Posts
  */
 
+.post-listing {
+  margin-bottom: 20px; 
+  padding: 10px; 
+  background-color: #F5F5DC;
+  border-radius: 10px;
+}
+
 img.post-preview {
    width: 100%;
+   border-radius: 10px;
 }
 
 .post-header {
