@@ -2,6 +2,7 @@
 layout: post
 title:  "How to Burn on Plywood with Silhouette (Laser) Cutter"
 date:   2015-03-09 20:00:0
+thumbnail: images/laser-sw-00.jpg
 tags:
 - laser
 ---

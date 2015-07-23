@@ -2,6 +2,7 @@
 layout: post
 title:  "3D Paper Model of Hydro Power Plant Čierny Váh"
 date:   2015-04-24 20:00:0
+thumbnail: images/2015-04-24-pve-cierny-vah/07.jpg
 tags:
 - 3D model
 - paper

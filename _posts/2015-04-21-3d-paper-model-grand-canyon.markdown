@@ -2,6 +2,7 @@
 layout: post
 title:  "3D Paper Model of Grand Canyon (Horseshoe Bend View)"
 date:   2015-04-21 20:00:0
+thumbnail: images/2015-04-21-grand-canyon/09.jpg
 tags:
 - 3D model
 - paper

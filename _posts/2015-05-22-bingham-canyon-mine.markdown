@@ -2,6 +2,7 @@
 layout: post
 title:  "3D Paper Model of Bingham Canyon Mine"
 date:   2015-05-22 20:00:0
+thumbnail: images/2015-05-22-bingham-canyon-mine/04.jpg
 tags:
 - paper 
 - terrain

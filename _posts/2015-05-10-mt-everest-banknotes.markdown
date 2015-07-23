@@ -2,6 +2,7 @@
 layout: post
 title:  "Mt. Everest Model Made of Banknotes"
 date:   2015-05-10 20:00:0
+thumbnail: images/2015-05-10-mt-everest-banknotes/02.jpg
 tags:
 - mountaineering
 - money

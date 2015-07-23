@@ -2,6 +2,7 @@
 layout: post
 title:  "Greetings from Hackerspace: Arduino-themed Pop up Card"
 date:   2015-03-31 20:00:0
+thumbnail: images/2015-03-31-greetings-from-hackerspace/01.jpg
 tags:
 - paper
 - card

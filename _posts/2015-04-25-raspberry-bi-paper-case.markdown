@@ -2,6 +2,7 @@
 layout: post
 title:  "Yet Another Paper Case for Raspberry Pi"
 date:   2015-04-24 20:00:0
+thumbnail: images/2015-04-25-raspberry-bi-paper-case/05.jpg
 tags:
 - enclosure
 - paper

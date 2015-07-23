@@ -2,6 +2,7 @@
 layout: post
 title:  "Dahala Khagrabari Enclave"
 date:   2015-05-06 20:00:0
+thumbnail: images/2015-05-06-dahala-khagrabari/11.jpg
 tags:
 - paper 
 - cut

@@ -2,6 +2,7 @@
 layout: post
 title:  "3D Paper Model of Lake Morské Oko"
 date:   2015-05-24 20:00:0
+thumbnail: images/2015-05-24-morske-oko/10.jpg
 tags:
 - paper 
 - terrain

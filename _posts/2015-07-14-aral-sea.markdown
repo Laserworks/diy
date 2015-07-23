@@ -2,6 +2,7 @@
 layout: post
 title:  "3D Paper Model of Shrinking Aral Sea"
 date:   2015-07-14 20:00:0
+thumbnail: images/2015-07-14-aral-sea/01.jpg
 tags:
 - paper 
 - terrain

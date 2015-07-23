@@ -2,6 +2,7 @@
 layout: post
 title:  "Grass-decorated (Bar) Desk for Drinks"
 date:   2015-05-05 20:00:0
+thumbnail: images/2015-05-05-grass-table/04.jpg
 tags:
 - grass
 - gardening

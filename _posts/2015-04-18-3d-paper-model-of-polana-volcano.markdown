@@ -2,6 +2,7 @@
 layout: post
 title:  "How to Create 3D Paper Model of Poľana Volcano"
 date:   2015-04-18 20:00:0
+thumbnail: images/2015-04-18-3d-terrain-relief/10.jpg
 tags:
 - 3D model
 - paper

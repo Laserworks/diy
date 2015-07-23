@@ -174,7 +174,7 @@
     list-style: none;
 
     > li {
-        margin-bottom: $spacing-unit;
+        margin-bottom: 0;
     }
 }
 
@@ -193,6 +193,11 @@
 /**
  * Posts
  */
+
+img.post-preview {
+   width: 100%;
+}
+
 .post-header {
     margin-bottom: $spacing-unit;
 }

@@ -2,6 +2,7 @@
 layout: post
 title:  "3D Paper Model of Pik Kommunizma (Ismoil Somoni Peak)"
 date:   2015-06-27 20:00:0
+thumbnail: images/2015-06-27-pik-kommunizma/06.jpg
 tags:
 - paper 
 - terrain

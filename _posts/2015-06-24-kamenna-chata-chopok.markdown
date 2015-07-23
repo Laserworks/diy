@@ -2,6 +2,7 @@
 layout: post
 title:  "3D Paper Model of Chopok (Kamenná Chata)"
 date:   2015-06-24 20:00:0
+thumbnail: images/2015-06-24-kamenna-chata-chopok/05.jpg
 tags:
 - paper 
 - terrain

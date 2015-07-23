@@ -2,6 +2,7 @@
 layout: post
 title:  "3D Paper Model of Slovenský Kras (Plešivec)"
 date:   2015-05-20 20:00:0
+thumbnail: images/2015-05-20-3d-paper-model-slovensky-kras/04.jpg
 tags:
 - paper 
 - terrain

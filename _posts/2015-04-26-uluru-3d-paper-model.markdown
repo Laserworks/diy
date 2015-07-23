@@ -2,6 +2,7 @@
 layout: post
 title:  "3D Paper Model of Uluru (Ayers Rock)"
 date:   2015-04-26 20:00:0
+thumbnail: images/2015-04-26-uluru-3d-paper-model/03.jpg
 tags:
 - 3D model
 - paper

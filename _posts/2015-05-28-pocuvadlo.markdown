@@ -2,6 +2,7 @@
 layout: post
 title:  "3D Paper Model of Lake Počúvadlo"
 date:   2015-05-28 20:00:0
+thumbnail: images/2015-05-28-pocuvadlo/06.jpg
 tags:
 - paper 
 - terrain

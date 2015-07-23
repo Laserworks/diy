@@ -2,6 +2,7 @@
 layout: post
 title:  "Paper Toy for Project Managers: Cost-Time-Quality"
 date:   2015-05-17 20:00:0
+thumbnail: images/2015-05-17-time-cost-quality/02.jpg
 tags:
 - it
 - project

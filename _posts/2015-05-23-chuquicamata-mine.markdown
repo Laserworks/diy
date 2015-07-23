@@ -2,6 +2,7 @@
 layout: post
 title:  "3D Paper Model of Chuquicamata Mine"
 date:   2015-05-23 20:00:0
+thumbnail: images/2015-05-23-chuquicamata-mine/04.jpg
 tags:
 - paper 
 - terrain

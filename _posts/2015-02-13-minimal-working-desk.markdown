@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Is This the Most Minimal Working Desk?"
+thumbnail: images/desk-01.jpg
 date:   2015-02-13 20:00:0
 tags:
 - minimalism

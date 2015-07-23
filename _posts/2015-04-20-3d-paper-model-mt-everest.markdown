@@ -2,6 +2,7 @@
 layout: post
 title:  "3D Paper Model of Mt. Everest"
 date:   2015-04-20 20:00:0
+thumbnail: images/2015-04-20-mt-everest/08.jpg
 tags:
 - 3D model
 - paper

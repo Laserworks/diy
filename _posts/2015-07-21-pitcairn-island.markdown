@@ -2,6 +2,7 @@
 layout: post
 title:  "3D Paper Model of Pitcairn Island"
 date:   2015-07-21 20:00:0
+thumbnail: images/2015-07-21-pitcairn-island/03.jpg
 tags:
 - paper 
 - 3D model

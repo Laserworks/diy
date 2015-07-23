@@ -2,6 +2,7 @@
 layout: post
 title:  "3D Paper Model of Mt. Fuji"
 date:   2015-04-28 20:00:0
+thumbnail: images/2015-04-28-mt-fuji-paper-model/03.jpg
 tags:
 - 3D model
 - paper
