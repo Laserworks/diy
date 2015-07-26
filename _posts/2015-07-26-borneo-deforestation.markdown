@@ -7,7 +7,6 @@ tags:
 - paper 
 - forest
 - eco
-
 ---
 
 Island [Borneo](https://en.wikipedia.org/wiki/Borneo) is subject of [massive deforestation](http://wwf.panda.org/what_we_do/where_we_work/borneo_forests/borneo_deforestation/) during past years. I took [this data poster](http://www.grida.no/graphicslib/detail/extent-of-deforestation-in-borneo-1950-2005-and-projection-towards-2020_119c) of Borneo deforestation timeline and cut it from paper. 
