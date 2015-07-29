@@ -39,26 +39,26 @@ We use [ruby-gmail](https://github.com/dcparker/ruby-gmail) gem which is designe
 require 'gmail'
 {% endhighlight %}
 
-we establish connection with our gmail account:
+We establish connection with our gmail account:
 
 {% highlight ruby %}
 # note that only 'myfridge' is provided instead of 'myfridge@gmail.com'
 gmail = Gmail.new 'myfridge', 'some_password'
 {% endhighlight %}
 
-And gather the last email:
+and gather the last email:
 
 {% highlight ruby %}
 last_email = gmail.inbox.emails.last
 {% endhighlight %}
 
 
-### Step 3b: Webserver on Raspberry Pi Renders Last Email as Webpage
+### Step 3b: Render Last Email as Webpage on Raspberry Pi Webserver
 
 Source code below is in this [repository](https://github.com/petervojtek/email-to-kindle-on-fridge).
 
-We will use [sinatra ruby gem](http://www.sinatrarb.com/) to help our ruby script to act as webserver.
-We want to achieve that when we visit in our web browser `http://rpi_ip_address:1212/email` we will see the last email.
+We use [sinatra ruby gem](http://www.sinatrarb.com/) to help our ruby script act as webserver.
+We want to achieve that when we visit in web browser `http://rpi_ip_address:1212/email` we will see the last email.
 
 
 {% highlight ruby %}
@@ -92,7 +92,7 @@ end
 
 set :port, 1212 # run the webserver on port 1212
 
-get '/email' do # this html is rendered in your browser when you visit http://rpi_ip_address:1212/email
+get '/email' do # html below is rendered in your browser when you visit http://rpi_ip_address:1212/email
   fetch_last_email
   
   <<STRING
@@ -125,20 +125,20 @@ get '/email' do # this html is rendered in your browser when you visit http://rp
 STRING
 end
 
-# javascript in your browser is making ajax request to this sinatra action
+# javascript in your browser will periodically make an ajax request to this sinatra action
 get '/should_we_reload' do
   fetch_last_email
   (params['rendered_email_uid'].to_i == $last_email_uid) ? 'no' : 'yes'
 end
 {% endhighlight %}
 
-Now we launch the webserver on our Raspberry Pi. the source code below is stored in file `email-to-kindle-webserver.rb`. For debugging purposes we can run it as following:
+Now we launch the webserver on our Raspberry Pi. Webserver's source code is stored in file `email-to-kindle-webserver.rb`. For debugging purposes we can run it as following:
 
-{% highlight ruby %}
+{% highlight text %}
 $ ruby email-to-kindle-webserver.rb myfridge password
 {% endhighlight %}
 
-Once all tested, you rather want to start the webserver automatically (in case your RPi is rebooted). You can use [supervisord](http://supervisord.org/) to automatically start the webserver by putting following content into `/etc/supervisor/conf.d/email-to-kindle-webserver.conf`:
+Once all tested, you rather want to start the webserver automatically (e.g., after RPi reboot). You can use [supervisord](http://supervisord.org/) to automatically start the webserver by putting following content into `/etc/supervisor/conf.d/email-to-kindle-webserver.conf`:
 
 
 {% highlight text %}
@@ -157,15 +157,14 @@ First we to connect kindle via wifi to the same network where Raspberry Pi is ru
 
 Next we [disable](http://www.amazon.com/forum/kindle/ref=cm_cd_et_md_pl?_encoding=UTF8&cdForum=Fx1D7SY3BVSESG&cdMsgID=Mx2HLTBL11A2UBQ&cdMsgNo=11&cdPage=1&cdSort=oldest&cdThread=Tx3AL0H1N6IDN3S#Mx2HLTBL11A2UBQ) kindle's screensaver as kindle will automatically enter sleep mode after 10 minutes:
 
-* Press the Home button to go the the Kindle home screen
-* Press the keyboard button to display the virtual keyboard
-* Type following string: `;debugOn` and press Enter button (not the Done button)
-* Type following string: `~disableScreensaver` and press Enter.
-
+1. Press the Home button to go the the Kindle home screen
+2. Press the keyboard button to display the virtual keyboard
+3. Type following string: `;debugOn` and press Enter button (not the Done button)
+4. Type following string: `~disableScreensaver` and press Enter.
 
 Now we launch kindle's web browser by pressing Menu > Experimental > Web Browser.
 
-You have to enter the url address `http://rpi_ip_address:1212/email`. I advise you to save the address immidiately as a bookmark to avoid entering the address in future which is painful on the kindle's virtual keyboard.
+You have to enter the url address `http://rpi_ip_address:1212/email`. I advise you to save the address immediately as a bookmark to prevent entering the address in future which is painful on the kindle's virtual keyboard.
 
 That's all. The webpage will detect new email arrival via ajax and javascript and will reload itself.
 
