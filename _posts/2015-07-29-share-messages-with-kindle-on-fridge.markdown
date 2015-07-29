@@ -19,6 +19,10 @@ The main idea is explained here and below are all the technical details:
 
 ![Share Messages via Kindle on Fridge]({{site.baseurl}}/images/2015-07-29-share-messages-with-kindle-on-fridge/kindle-emails.svg "Share Messages via Kindle on Fridge")
 
+<span style=" background-color: yellow; padding: 10px; font-weight: 800 !important">All the source code below is in [this repository](https://github.com/petervojtek/email-to-kindle-on-fridge).</span>
+
+
+
 ### Step 1: Send Email to myfridge@gmail.com
 
 First you need to create a new email account for your fridge kindle on gmail.com, e.g., `myfridge@gmail.com`. Whoever sends an email to `myfridge@gmail.com` will get his email displayed on your fridge.
@@ -54,8 +58,6 @@ last_email = gmail.inbox.emails.last
 
 
 ### Step 3b: Render Last Email as Webpage on Raspberry Pi Webserver
-
-Source code below is in this [repository](https://github.com/petervojtek/email-to-kindle-on-fridge).
 
 We use [sinatra ruby gem](http://www.sinatrarb.com/) to help our ruby script act as webserver.
 We want to achieve that when we visit in web browser `http://rpi_ip_address:1212/email` we will see the last email.
