@@ -2,6 +2,7 @@
 layout: post
 title:  "Share Messages via Kindle on Fridge"
 date:   2015-07-28 20:00:0
+thumbnail: images/2015-07-29-share-messages-with-kindle-on-fridge/01.jpg
 tags:
 - kindle 
 - display
