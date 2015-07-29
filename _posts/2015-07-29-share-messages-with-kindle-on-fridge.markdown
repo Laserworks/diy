@@ -114,7 +114,7 @@ get '/email' do # this html is rendered in your browser when you visit http://rp
             if(xhr.responseText == 'yes')
                 location.reload();
           });
-          setTimeout(lastEmailChangedCheck, 10000) <!-- every 10 seconds -->
+          setTimeout(lastEmailChangedCheck, 10000) // every 10 seconds
         }
 
         lastEmailChangedCheck();
