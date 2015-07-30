@@ -31,13 +31,32 @@ First you need to create a new email account for your fridge kindle on gmail.com
 
 There is not much to explain here, all the hard work is done by the google team :)
 
-### Step 3a: Webserver on Raspberry Pi is Checking New Emails
+### Step 3a: Install Dependencies on Raspberry Pi
 
 You can use any server you have, many people have a Raspberry Pi running on their home network. 
-Our webserver app is written in Ruby.
-First we need to gather last email from `myfridge@gmail.com` inbox.
+Our webserver app to fetch emails and render them to html is written in Ruby.
 
-We use [ruby-gmail](https://github.com/dcparker/ruby-gmail) gem which is designed to interact with gmail inbox via IMAP:
+First we install ruby and its gems (libraries):
+{% highlight text %}
+$ apt-get install ruby
+$ gem install gmail
+$ gem install sinatra
+{% endhighlight %}
+
+and we checkout the server app source code (alternatively you can just wget [this file](https://raw.githubusercontent.com/petervojtek/email-to-kindle-on-fridge/master/email-to-kindle-webserver.rb)):
+{% highlight text %}
+$ git clone https://github.com/petervojtek/email-to-kindle-on-fridge.git
+$ cd email-to-kindle-on-fridge
+{% endhighlight %}
+
+
+### Step 3b: Fetch Last Email to Raspberry Pi
+
+Steps `3b` and `3c` only explain in detail the what is inside `email-to-kindle-webserver.rb`. If you are not interested in details you can jump to step `3d` to run the webserver.
+
+We are about to gather last email from `myfridge@gmail.com` inbox.
+
+We use [ruby-gmail](https://github.com/dcparker/ruby-gmail) gem which is designed to interact with gmail inbox via IMAP.
 
 {% highlight ruby %}
 require 'gmail'
@@ -57,7 +76,7 @@ last_email = gmail.inbox.emails.last
 {% endhighlight %}
 
 
-### Step 3b: Render Last Email as Webpage on Raspberry Pi Webserver
+### Step 3c: Render Last Email as Webpage on Raspberry Pi Webserver
 
 We use [sinatra ruby gem](http://www.sinatrarb.com/) to help our ruby script act as webserver.
 We want to achieve that when we visit in web browser `http://rpi_ip_address:1212/email` we will see the last email.
@@ -134,6 +153,8 @@ get '/should_we_reload' do
 end
 {% endhighlight %}
 
+### Step 3d: Run the Webserver on Raspberry Pi
+
 Now we launch the webserver on our Raspberry Pi. Webserver's source code is stored in file `email-to-kindle-webserver.rb`. For debugging purposes we can run it as following:
 
 {% highlight text %}
@@ -178,7 +199,7 @@ That's all. The webpage will detect new email arrival via ajax and javascript an
 * I received a suggestion to allow browsing the arrived emails instead of displaying newest email only. Unfortunately, the large next page/previous page buttons on Kindle 4 emit no signal to web browser and thus cannot be used to easily switch between email messages. I guess the touchscreen kindle's are better suited for this purpose.
 * It seems is is not possible to enter fullscreen on the kindle's web browser.
 
-### TODOs
+### Credits
 
-* add more robustness to the gmail IMAP session so that when it is disconnected after few days of running, it will reconnect automatically.
+* Andrew Jones
 
