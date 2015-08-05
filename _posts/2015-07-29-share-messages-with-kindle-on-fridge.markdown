@@ -194,7 +194,7 @@ That's all. The webpage will detect new email arrival via ajax and javascript an
 
 ### Additional Notes
 
-* you can use [IFTTT recipes](https://ifttt.com/recipes/search?q=Gmail&ac=true) to integrate services like weather forecast to send messages to your kindle.
+* you can use [IFTTT recipes](https://ifttt.com/recipes/search?q=Gmail&ac=true) to integrate services like weather forecast to send messages to your kindle (you may need to adjust the rendered html content).
 * I put this magnetic [Self Adhesive Magnetic Strip](http://www.ebay.com/itm/131485684970?_trksid=p2060353.m2749.l2649&ssPageName=STRK%3AMEBIDX%3AIT) on backside of kindle to keep it attached to the fridge.
 * You may be tempted to use native [Gmail API](https://developers.google.com/gmail/api/) to check emails instead of using IMAP, but the official Gmail API is super overengineered and overcomplicated and you will probably spend few hours trying to achieve the same you can do in five minutes with IMAP.
 * I received a suggestion to allow browsing the arrived emails instead of displaying newest email only. Unfortunately, the large next page/previous page buttons on Kindle 4 emit no signal to web browser and thus cannot be used to easily switch between email messages. I guess the touchscreen kindle's are better suited for this purpose.
