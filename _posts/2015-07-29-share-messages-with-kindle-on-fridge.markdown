@@ -199,6 +199,7 @@ That's all. The webpage will detect new email arrival via ajax and javascript an
 * You may be tempted to use native [Gmail API](https://developers.google.com/gmail/api/) to check emails instead of using IMAP, but the official Gmail API is super overengineered and overcomplicated and you will probably spend few hours trying to achieve the same you can do in five minutes with IMAP.
 * I received a suggestion to allow browsing the arrived emails instead of displaying newest email only. Unfortunately, the large next page/previous page buttons on Kindle 4 emit no signal to web browser and thus cannot be used to easily switch between email messages. I guess the touchscreen kindle's are better suited for this purpose.
 * It seems is is not possible to enter fullscreen on the kindle's web browser.
+* It seems to be useless to install [Duokan OS](http://wiki.mobileread.com/wiki/Duokan) for the purpose of this project -- Duokan has no web browser (at least in v2013 for Kindle 4).
 
 ### Credits
 

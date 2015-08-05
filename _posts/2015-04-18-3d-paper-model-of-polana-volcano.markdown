@@ -24,8 +24,6 @@ For a comparison, here is [rendered 3D panorama view](http://www.udeuschle.selfh
 
 ![Poľana Volcano panorama view]({{site.baseurl}}/images/2015-04-18-3d-terrain-relief/08.jpg "Poľana Volcano")
 
-On the right side is my first prototype assembled with slightly different technique not explained in this blogpost:
-
 Following photo exhibits several prototypes. On left side is my first Poľana prototype assembled with slightly different technique not explained in this blogpost. In the middle is second generation of Poľana and on the right side is [Mt. Everest model](https://petervojtek.github.io/diy/2015/04/20/3d-paper-model-mt-everest.html).
 
 ![Poľana Volcano cut from paper]({{site.baseurl}}/images/2015-04-18-3d-terrain-relief/10.jpg "Poľana Volcano cut from paper - evolutions of prototypes")
