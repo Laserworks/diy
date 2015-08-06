@@ -191,6 +191,10 @@ You have to enter the url address `http://rpi_ip_address:1212/email`. I advise y
 
 That's all. The webpage will detect new email arrival via ajax and javascript and will reload itself.
 
+### Step 5: Add Custom Paper Stripe
+
+It seems is is not possible to enter fullscreen on the kindle's web browser. To hide Kindle's top system bar and web browser address bar we cut a stripe from paper using a blade cutter machine.
+In my case the headline `/etc/motd` refers to unix's [Message of the day](https://en.wikipedia.org/wiki/Motd_(Unix)).
 
 ### Additional Notes
 
@@ -198,7 +202,6 @@ That's all. The webpage will detect new email arrival via ajax and javascript an
 * I put this magnetic [Self Adhesive Magnetic Strip](http://www.ebay.com/itm/131485684970?_trksid=p2060353.m2749.l2649&ssPageName=STRK%3AMEBIDX%3AIT) on backside of kindle to keep it attached to the fridge.
 * You may be tempted to use native [Gmail API](https://developers.google.com/gmail/api/) to check emails instead of using IMAP, but the official Gmail API is super overengineered and overcomplicated and you will probably spend few hours trying to achieve the same you can do in five minutes with IMAP.
 * I received a suggestion to allow browsing the arrived emails instead of displaying newest email only. Unfortunately, the large next page/previous page buttons on Kindle 4 emit no signal to web browser and thus cannot be used to easily switch between email messages. I guess the touchscreen kindle's are better suited for this purpose.
-* It seems is is not possible to enter fullscreen on the kindle's web browser.
 * It seems to be useless to install [Duokan OS](http://wiki.mobileread.com/wiki/Duokan) for the purpose of this project -- Duokan has no web browser (at least in v2013 for Kindle 4).
 
 ### Credits
