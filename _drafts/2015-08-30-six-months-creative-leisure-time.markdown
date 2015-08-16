@@ -17,7 +17,7 @@ Tento text píšem koncom augusta 2015, po prvých šiestich mesiaciacoch _seri�
 ## Teória
 
 Aj keď som mal štastie, že som mal celkom zaujímavé zamestnanie, bola to len _práca_ a nie činnosť o ktorej by som mohol povedať, že mi dáva zmysel života. Zároveň som si chcel vyskúšať, aké to (možno) bude v budúcnosti, keď väčšina populácie nebude mať prácu v dnešnom slova zmysle, pretože ich za volantami taxíkov, v úradoch alebo za pokladňami obchodov (konečne) nahradia roboty. 
-Jedno z navrhovaných riešení tejto situácie je [základnú príjem](https://en.wikipedia.org/wiki/Basic_income). Ak takýto scenár nastane, mnohí budeme v budúcnosti v situácii, v akej som sa ocitol od marca 2015:
+Jedno z navrhovaných riešení tejto situácie je [základný príjem](https://en.wikipedia.org/wiki/Basic_income). Ak takýto scenár nastane, mnohí budeme v budúcnosti v situácii, v akej som sa ocitol od marca 2015:
 
 * nemusím chodiť do práce a voľný čas môžem použiť ako uznám za vhodné
 * som zabezpečený aby som sa mohol voľne realizovať a netrápili ma materiálne otázky
@@ -49,7 +49,7 @@ Asi pol roka pred odchodom zo zamestnania som si začal vytvárať zoznam nápad
 
 ### TODOs
 
-Tu sú nápady a činnosti, ku ktorým som sa ešte nedostal a možno niekoho inšpirujú:
+Tu sú nápady a činnosti, ku ktorým som sa nedostal a možno niekoho inšpirujú:
 
 * absolvovať nejaké Coursera kurzy
 * naučiť sa písat všetkými desiatmi prstami
@@ -61,7 +61,7 @@ Tu sú nápady a činnosti, ku ktorým som sa ešte nedostal a možno niekoho in
 * naučiť sa hrať na gitare
 * zistiť či má zmysel venovať sa [mindfulness](https://en.wikipedia.org/wiki/Mindfulness)
 * vyrobiť androidovú aplikáciu do mobilu, ktorá bude cez expozimeter foťáku monitorovať koľko slnečnej expozície som za deň dostal. Na [kickstarteri](https://www.kickstarter.com/projects/342933744/violet-optimize-your-sun-experience?ref=category) sa o čosi podobné už pokúšali.
-* vymyslieť spacák tenký ako plachta, vhodný na prespanie vnútri, keď sa človeku nechce obliekať obliečky. Dôležité je aby bol lacný, ľahký a po zložení malý. Vhodný napríklad pre couchsurverov.
+* vymyslieť spacák tenký ako plachta, vhodný na prespanie vnútri, keď sa človeku nechce obliekať obliečky. Dôležité je aby bol lacný, ľahký a po zložení malý. Vhodný napríklad pre couchsurferov.
 * arduino--based dáždnik ktorý blikne vždy keď naň dopadne kvapka
 * arduino--based zariadenie na jabloň, ktoré blikne alebo zostane na nejaký čas svietiť vždy keď som stromu spadne na zem jablko
 * webový portál, kde človek napíše výraz/slovo/názov budúceho produktu a ostatní sa vyjadria, či má tento výraz negatívny alebo neslušný význam v iných kultúrach a jazykoch
@@ -79,9 +79,9 @@ Tu sú nápady a činnosti, ku ktorým som sa ešte nedostal a možno niekoho in
 
 Vyššie nie je uvedené zďaleka všetko, čomu som sa venoval, ale zoznam by sa zbytočne predĺžil a v tomto stave stačí na to, aby si čitateľ predstavil čo je to _hrať sa_.
 
-Okrem vyššie uvedeného som (zámerne) trávil čas aj činnosťou, ktorá sa asi bežne nazýva _ničnerobenie_. V čase, keď sú ľudia posadnutí produktivitou a snahou čo najefektívnejšie využiť svoj čas, je ťažké stretnúť niekoho, kto z kapitalistického hľadiska _nič nerobí_. 
+Okrem vyššie uvedeného som (zámerne) trávil čas aj činnosťou, ktorá sa asi nazýva _ničnerobenie_. V čase, keď sú ľudia posadnutí produktivitou a snahou čo najefektívnejšie využiť svoj čas, je ťažké stretnúť niekoho, kto z kapitalistického hľadiska zámerne _nič nerobí_. O to cennejšie je stretnutie s takým človekom.
 
-Občas dostanem otázku, či sa venujem aj _niečomu serióznemu_. 
+Občas dostanem otázku, či sa venujem aj _niečomu serióznemu_. Dospelí ľudia sa zo všetkých síl venujú _serióznym_ činnostiam a výsledkom je neveselý svet, v ktorom kde je bohatstvo rozdelené medzi populáciu exponenciálne a osemdesiat najbohatších ľudí [vlastní rovnaké bohatstvo](http://fivethirtyeight.com/datalab/meet-the-80-people-who-are-as-rich-as-half-the-world/) ako  50% najchudobnejších obyvateľov planéty. Myslím si, že by sme sa všetci spolu mali lepšie, keby sme sa viac _hrali_.
 
 
 ## Odporúčané čítanie
