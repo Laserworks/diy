@@ -15,7 +15,9 @@ We use Arduino and bluetooth to wirelessly visualize music being played on PC. A
 
 Here is also some music playing in background and the box is open:
 
-<iframe width="100%" height="440" src="https://www.youtube.com/embed/6ICOOsUzq_4" frameborder="0" allowfullscreen></iframe>
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 60%;">
+<iframe src="https://www.youtube.com/embed/6ICOOsUzq_4" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0;width: 100%; height: 100%; "></iframe>
+</div>
 
 ## Comparison of Existing Solutions
 
