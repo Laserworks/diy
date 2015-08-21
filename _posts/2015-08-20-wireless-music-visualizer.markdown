@@ -9,7 +9,7 @@ tags:
 - processing
 ---
 
-We use Arduino and bluetooth to wirelessly visualize music being played on PC. Arduino and its accesories are running from battery. In order to eliminate noise we analyze the music stream on PC and send frequency spectrum information to arduino via bluetooth.
+We use Arduino and bluetooth to wirelessly visualize music being played on PC. Arduino and its accessories are running from battery. In order to eliminate noise we analyze the music stream on PC and send frequency spectrum information to arduino via bluetooth.
 
 ![Yet Another Wireless Music Visualizer]({{site.baseurl}}/images/2015-08-20-wireless-music-visualizer/cube.gif "Yet Another Wireless Music Visualizer")
 
@@ -126,7 +126,7 @@ String getValue(String data, char separator, int index)
 
 ### Load Souce Code To Arduino
 
-I upload the source code to Arduino from Arduino IDE via USB. You need to unpower (unplug) the bluetooth power pin to successfully upload the code to Arduino, because bluetooth module is connected to default Arduino's TX and RX pins and will interfere with code upload procedure otherwise.
+I upload the source code to Arduino from Arduino IDE via USB. You need to power off (unplug) the bluetooth power pin to successfully upload the code to Arduino, because bluetooth module is connected to default Arduino's TX and RX pins and will interfere with code upload procedure otherwise.
 
 ### Pair Arduino's Bluetooth Module with PC
 
