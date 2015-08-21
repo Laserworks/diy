@@ -4,8 +4,10 @@ layout: default
 
 <div class="home">
 
+    {% include pagination.html %}
+    
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
       <li>
 <div class="post-listing">
 
@@ -23,12 +25,20 @@ layout: default
 
 </div>
 <div>
-<a href="{{ post.url | prepend: site.baseurl }}"><img class="post-preview" src="{{ post.thumbnail }}"></a>
+    {% if post.thumbnail %}
+    {% if paginator.page > 1 %}  
+       <a href="{{ post.url | prepend: site.baseurl }}"><img class="post-preview" src="../{{ post.thumbnail }}"></a>
+    {% else %}
+       <a href="{{ post.url | prepend: site.baseurl }}"><img class="post-preview" src="{{ post.thumbnail }}"></a>
+    {% endif %}
+    {% endif %}
 </div>
 </div>
 
       </li>
     {% endfor %}
   </ul>
+    
+    {% include pagination.html %}    
 
 </div>
