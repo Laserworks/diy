@@ -2,57 +2,63 @@
 layout: post
 title:  "Six Months of Creative Leisure Time (in Slovak)"
 date:   2015-08-30 20:00:0
+thumbnail: images/2015-08-30-six-months-creative-leisure-time/otium.jpg
 tags:
 - otium 
 ---
 
 > If a man walk in the woods for love of them half of each day, he is in danger of being regarded as a loafer; but if he spends his whole day as a speculator, shearing off those woods and making earth bald before her time, he is esteemed an industrious and enterprising citizen. -- [H. D. Thoreau](https://en.wikipedia.org/wiki/Henry_David_Thoreau)
 
+![Otium]({{site.baseurl}}/images/2015-08-30-six-months-creative-leisure-time/bike.jpg "Otium")
 
-V júni roku 2014 som sa rozhodol, že vo februári 2015 odídem z práce z budem sa nejaký čas venovať _činnosti_, ktorú neviem dobre pomenovať. V názve tohto článku z núdze používam výraz _creative leisure time_, kamarát Šaňo má pomenovanie _seriózne sa hrať_. Blízke pojmy sú [Otium](https://en.wikipedia.org/wiki/Otium) a [Ziran](https://en.m.wikipedia.org/wiki/Ziran). 
+V júni roku 2014 som sa rozhodol, že vo februári 2015 odídem z práce a budem nejaký čas žiť spôsobom, ktorý neviem dobre pomenovať. V názve tohto článku z núdze používam výraz _creative leisure time_ ("tvorivo nezamestnaný"), kamarát Šaňo má pomenovanie _seriózne sa hrať_. Blízke pojmy sú [Otium](https://en.wikipedia.org/wiki/Otium) a [Ziran](https://en.m.wikipedia.org/wiki/Ziran). 
 
-Našetril som si na to, aby som pri pesimistickom scenári mal aspoň na jeden rok bez práce.
-Tento text píšem koncom augusta 2015, po prvých šiestich mesiaciacoch _seriózneho hrania sa_, najmä kvôli známym a kamarátom, ktorí boli zvedaví, čomu som sa dosiaľ venoval.
+Našetril som si na to, aby som aj pri pesimistickom scenári bol aspoň na jeden rok _oslobodený_ od práce.
+Tento text píšem koncom augusta 2015, po prvých šiestich mesiaciacoch _seriózneho hrania sa_, kvôli známym a kamarátom, ktorí boli zvedaví, čomu som sa dosiaľ venoval.
 
 ## Teória
 
-Aj keď som mal štastie, že som mal celkom zaujímavé zamestnanie, bola to len _práca_ a nie činnosť o ktorej by som mohol povedať, že mi dáva zmysel života. Zároveň som si chcel vyskúšať, aké to (možno) bude v budúcnosti, keď väčšina populácie nebude mať prácu v dnešnom slova zmysle, pretože ich za volantami taxíkov, v úradoch alebo za pokladňami obchodov (konečne) nahradia roboty. 
-Jedno z navrhovaných riešení tejto situácie je [základný príjem](https://en.wikipedia.org/wiki/Basic_income). Ak takýto scenár nastane, mnohí budeme v budúcnosti v situácii, v akej som sa ocitol od marca 2015:
+Aj keď som mal štastie, že som mal celkom zaujímavé [zamestnanie](https://www.linkedin.com/pub/peter-vojtek/12/9b9/197), bola to len _práca_. Zároveň som si chcel vyskúšať, aké to (možno) bude v budúcnosti, keď väčšina populácie nebude mať prácu v dnešnom slova zmysle, pretože ich za volantami taxíkov, v úradoch alebo za pokladňami obchodov (konečne) nahradia roboty. 
+Jedno z navrhovaných riešení tejto situácie je [základný príjem](https://en.wikipedia.org/wiki/Basic_income). Ak takýto scenár nastane, mnohí budeme v budúcnosti v podobnej situácii:
 
-* nemusím chodiť do práce a voľný čas môžem použiť ako uznám za vhodné
+* nemusím chodiť do práce a voľný čas môžem využiť ako uznám za vhodné
 * som zabezpečený aby som sa mohol voľne realizovať a netrápili ma materiálne otázky
 
 ## Prax
 
-Asi pol roka pred odchodom zo zamestnania som si začal vytvárať zoznam nápadov a činností, ktorým by som sa chcel _v čase osobného voľna_ venovať. Zoznam bol dosť dlhý a nebolo cieľom ho celý zrealizovať, ale naopak mať k dispozícii dosť možností z ktorých si môžem vyberať.
+Asi pol roka pred odchodom zo zamestnania som začal vytvárať zoznam nápadov a činností, ktorými by som sa mohol _v čase osobného voľna_ venovať. Zoznam bol dosť dlhý a nebolo cieľom ho celý zrealizovať, ale naopak mať k dispozícii veľa možností z ktorých si môžem podľa nálady vyberať.
 
 
-### Zrealizované a zavrhnuté nápady a činnosti
+### Nápady a činnosti ktorým som sa venoval
 
 * bicyklovanie a [mapovanie](https://www.openstreetmap.org/user/Peter%20Vojtek/history) pre openstreetmap.org
-	* touto činnostou som sa zaoberal asi najaktívnejšie. Za uplynulých šesť mesiacov som na bicykli najazdil do 5000 kilometrov. jazdenie autom som minimalizoval a kdekoľvek je to možné chodím na bicykli alebo peši.
+	* touto činnostou som sa zaoberal asi najaktívnejšie. Za uplynulých šesť mesiacov som na bicykli najazdil do 5000 kilometrov. Jazdenie autom som minimalizoval a kdekoľvek je to možné chodím na bicykli alebo peši.
 	* [cyklovýlet okolo Slovenska](http://petervojtek.eu/wiki/Bike/OkoloSlovenskaNaBicykli)
+* otužovať sa
+	* takmer každé ráno sa mi darilo sprchovať sa studenou vodou
+	* v lete som sa [veľa kúpal v prírodných vodných plochách](http://petervojtek.eu/wiki/Bike/2015-07-22-kupanie-x-17) a chcem v tom pokračovať až do zimy.
 * naučiť sa po rusky
 	* Každý deň som čítal v ruštine asi jednu až dve hodiny. Začal som novinovými portálmi a po mesiaci som začal čítať Solženycinovo Súostrovie Gulag, ktoré som asi po dvoch mesiacoch dočítal. Čítam som v mobile, vďaka čomu som si neznáme slová mohol hneď prekladať cez Google Translate. Potom som čítal aj ďalšie knižky a začal sledovať internetové vysielanie [ruskej televízie](https://www.youtube.com/user/Russia24TV) aby som si zlepšil aj počúvanie ruštiny. Pozeranie ruských televíznych správ je zaujímavé kvôli masívnej propagande, ktorú človek zo západu ľahko prehliadne, ale na domácich zdá sa funguje výborne.
 * vyrábať 3D modely terénu z papieru
 	* [viac na blogu](https://petervojtek.github.io/diy/) a na [deviantart](http://petervojtek.deviantart.com/)
 * prerobiť Silhouette ploter na vyrezávanie z papiera na zariadenie ktoré dokáže vypaľovat dizajn laserom (napr. do preglejky).
 	* [návod je tu](https://petervojtek.github.io/diy/2015/02/22/burning-map-on-plywood-with-silhouette-cutter.html)
-* [mapa rómskych komunít](http://petervojtek.github.io/mapa-romskych-komunit/)
-	* vizualizácia údajov z projektu [Atlasu rómskych komunít](http://romovia.vlada.gov.sk/20535/atlas-romskych-komunit.php). Napísal som aj email koordinátorke projektu pre médiá a PR aktivity, či by nevedeli poskytnúť presnejšie mapové podklady alebo nemali záujem vizualizovať iné údaje z atlasu, nedostal som odpoveď.
 * vymyslieť hračky/darčekové predmety pre programátorov a [devops](https://en.wikipedia.org/wiki/DevOps)
 	* [Paper Toy for Project Managers: Cost-Time-Quality](https://petervojtek.github.io/diy/2015/05/17/time-cost-quality.html)
 	* [Arduino-themed Pop up Card](https://petervojtek.github.io/diy/2015/03/31/greetings-from-hackerspace.html)
 	* [3D Pop-up Card for Chemist/Geek](https://www.etsy.com/listing/231674533/3d-pop-up-card-for-chemist-geek?ref=shop_home_active_4)
 * webový portál v ktorom bude možné anotovať a prepájať hudobné skladby podľa toho, ako medzi sebou preberajú obsah (cover verzie, sampling, remake). 
 	* navrhol som dátový model, ale našťastie skôr než som začal programovať som zistil, že [to už existuje](http://www.whosampled.com/)
+* [mapa rómskych komunít](http://petervojtek.github.io/mapa-romskych-komunit/)
+	* vizualizácia údajov z projektu [Atlasu rómskych komunít](http://romovia.vlada.gov.sk/20535/atlas-romskych-komunit.php). Napísal som aj email koordinátorke projektu pre médiá a PR aktivity, či by nevedeli poskytnúť presnejšie mapové podklady alebo nemali záujem vizualizovať iné údaje z atlasu, nedostal som odpoveď.
+
 
 ### TODOs
 
 Tu sú nápady a činnosti, ku ktorým som sa nedostal a možno niekoho inšpirujú:
 
 * absolvovať nejaké Coursera kurzy
-* naučiť sa písat všetkými desiatmi prstami
+* naučiť sa písat všetkými desiatimi prstami
 * naučiť sa programovať v Haskelli
 * prispievať do Wikipedie
 * študovať [Endless Sphere](https://endless-sphere.com/forums/)
@@ -73,15 +79,15 @@ Tu sú nápady a činnosti, ku ktorým som sa nedostal a možno niekoho inšpiru
 * hodiny, ktoré budú aktuálny čas ukazovať pomocou železných pilín a elektromagnetov - magnety budú preskupovať železné piliny tak, aby ukazovali aktuálny čas
 	* [tu ktosi spravil prototyp pri ktorom použil ferrofluid](http://m.9gag.com/gag/arRMDn7)
 * webový portál - používateľ zadá údaje aký je a čomu sa venuje a dozvie sa, ako by svet vyzeral keby sa všetci správali ako on. 
-	* zistil som, že [niečo podobné už existuje](http://www.bbc.com/earth/story/20141016-your-life-on-earth) a ďalej som sa tomu nevenoval
+	* [niečo podobné už existuje](http://www.bbc.com/earth/story/20141016-your-life-on-earth)
 
 ## Zhrnutie
 
-Vyššie nie je uvedené zďaleka všetko, čomu som sa venoval, ale zoznam by sa zbytočne predĺžil a v tomto stave stačí na to, aby si čitateľ predstavil čo je to _hrať sa_.
+Vyššie nie je uvedené zďaleka všetko, čomu som sa venoval, ale zoznam by sa značne predĺžil a v tomto stave stačí na to, aby si čitateľ predstavil ako _sa hrám_.
 
-Okrem vyššie uvedeného som (zámerne) trávil čas aj činnosťou, ktorá sa asi nazýva _ničnerobenie_. V čase, keď sú ľudia posadnutí produktivitou a snahou čo najefektívnejšie využiť svoj čas, je ťažké stretnúť niekoho, kto z kapitalistického hľadiska zámerne _nič nerobí_. O to cennejšie je stretnutie s takým človekom.
+Okrem vyššie uvedeného som sa snažil dosť času stráviť ničnerobením, snívaním a filozofovaním nad svetom. Nebudem čitateľa zbytočne zaťažovať úvahami o vesmíre a zmysle života, ku ktorým som za ten čas prišiel, ale aspoň jeden postreh na záver:
 
-Občas dostanem otázku, či sa venujem aj _niečomu serióznemu_. Dospelí ľudia sa zo všetkých síl venujú _serióznym_ činnostiam a výsledkom je neveselý svet, v ktorom kde je bohatstvo rozdelené medzi populáciu exponenciálne a osemdesiat najbohatších ľudí [vlastní rovnaké bohatstvo](http://fivethirtyeight.com/datalab/meet-the-80-people-who-are-as-rich-as-half-the-world/) ako  50% najchudobnejších obyvateľov planéty. Myslím si, že by sme sa všetci spolu mali lepšie, keby sme sa viac _hrali_.
+Občas dostanem otázku, či sa venujem aj _niečomu serióznemu_. Zatiaľ čo deti sa hrajú, dospelí ľudia sa zo všetkých síl venujú _serióznym_ činnostiam a výsledkom je neveselý svet -- napríklad bohatstvo je rozdelené medzi populáciu exponenciálne a osemdesiat najbohatších ľudí [vlastní rovnaký majetok](http://fivethirtyeight.com/datalab/meet-the-80-people-who-are-as-rich-as-half-the-world/) ako  50% najchudobnejších obyvateľov planéty. Myslím si, že by sme sa všetci spolu mali lepšie, keby sme sa viac _hrali_.
 
 
 ## Odporúčané čítanie
@@ -90,7 +96,7 @@ Občas dostanem otázku, či sa venujem aj _niečomu serióznemu_. Dospelí ľud
 * [The Hacker Ethics](https://en.wikipedia.org/wiki/Hacker_ethic#The_hacker_ethics)
 * [Dalfar](https://dalfar.wordpress.com/)
 
-
+![Otium]({{site.baseurl}}/images/2015-08-30-six-months-creative-leisure-time/otium.jpg "Otium")
 
 
 
