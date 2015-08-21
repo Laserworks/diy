@@ -271,7 +271,7 @@ $ rp5 run yaw.rb
 
 Once started, following window with music visualization should appear:
 
-![Yet Another Wireless Music Visualizer]({{site.baseurl}}/images/2015-08-20-wireless-music-visualizer/processing.png "Yet Another Wireless Music Visualizer")
+![Yet Another Wireless Music Visualizer]({{site.baseurl}}/images/2015-08-20-wireless-music-visualizer/processing.gif "Yet Another Wireless Music Visualizer")
 
 and Neopixel LEDs on Arduino circuit should blink in the same manner.
 
