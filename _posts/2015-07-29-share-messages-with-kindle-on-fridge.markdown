@@ -112,6 +112,7 @@ def fetch_last_email
 end
 
 set :port, 1212 # run the webserver on port 1212
+set :bind, '0.0.0.0'
 
 get '/email' do # html below is rendered in your browser when you visit http://rpi_ip_address:1212/email
   fetch_last_email
