@@ -36,6 +36,8 @@ There are few other arduino--based projects which visualize music in real time:
 | This Is Your Brain On Music       | No        | Yes         | No     |
 | This project                      | Yes       | Yes         | No     |
 
+There are also [plenty](http://www.moddingtech.de/tutorials/44-lichteffekte/172-sound-to-light-modul.html) of non-arduino based cicuits to visualize music.
+
 ## Aduino: Wiring and Software
 
 ### Bill of Material
