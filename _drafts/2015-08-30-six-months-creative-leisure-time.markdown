@@ -29,16 +29,18 @@ Jedno z navrhovaných riešení tejto situácie je [základný príjem](https://
 Asi pol roka pred odchodom zo zamestnania som začal vytvárať zoznam nápadov a činností, ktorými by som sa mohol _v čase osobného voľna_ venovať. Zoznam bol dosť dlhý a nebolo cieľom ho celý zrealizovať, ale naopak mať k dispozícii veľa možností z ktorých si môžem podľa nálady vyberať.
 
 
-### Nápady a činnosti ktorým som sa venoval
+### Niektoré z činností ktorým som sa venoval
 
-* bicyklovanie a [mapovanie](https://www.openstreetmap.org/user/Peter%20Vojtek/history) pre openstreetmap.org
-	* touto činnostou som sa zaoberal asi najaktívnejšie. Za uplynulých šesť mesiacov som na bicykli najazdil do 5000 kilometrov. Jazdenie autom som minimalizoval a kdekoľvek je to možné chodím na bicykli alebo peši.
+* tráviť veľa času v prírode
+	* na bicykli, peši a na bežkách. Bicyklovaniu som sa venoval asi najviac, za uplynulých šesť mesiacov som na bicykli najazdil asi 5000 kilometrov. Jazdenie autom som minimalizoval a kdekoľvek je to možné chodím na bicykli alebo peši.
 	* [cyklovýlet okolo Slovenska](http://petervojtek.eu/wiki/Bike/OkoloSlovenskaNaBicykli)
+* [mapovanie](https://www.openstreetmap.org/user/Peter%20Vojtek/history) pre openstreetmap.org a [freemap.sk](freemap.sk)
+	* ako súčasť cyklo a iných výletov 
 * otužovať sa
 	* takmer každé ráno sa mi darilo sprchovať sa studenou vodou
-	* v lete som sa [veľa kúpal v prírodných vodných plochách](http://petervojtek.eu/wiki/Bike/2015-07-22-kupanie-x-17) a chcem v tom pokračovať až do zimy.
+	* v lete som sa [veľa kúpal v prírodných vodných plochách](http://petervojtek.eu/wiki/Bike/2015-07-22-kupanie-x-17) a chcem v tom pokračovať do zimy
 * naučiť sa po rusky
-	* Každý deň som čítal v ruštine asi jednu až dve hodiny. Začal som novinovými portálmi a po mesiaci som začal čítať Solženycinovo Súostrovie Gulag, ktoré som asi po dvoch mesiacoch dočítal. Čítam som v mobile, vďaka čomu som si neznáme slová mohol hneď prekladať cez Google Translate. Potom som čítal aj ďalšie knižky a začal sledovať internetové vysielanie [ruskej televízie](https://www.youtube.com/user/Russia24TV) aby som si zlepšil aj počúvanie ruštiny. Pozeranie ruských televíznych správ je zaujímavé kvôli masívnej propagande, ktorú človek zo západu ľahko prehliadne, ale na domácich zdá sa funguje výborne.
+	* Každý deň som čítal v ruštine asi jednu až dve hodiny. Začal som novinovými portálmi a po mesiaci som začal čítať Solženycinovo Súostrovie Gulag, ktoré som asi po dvoch mesiacoch dočítal. Čítam v mobile, vďaka čomu si neznáme slová môžem hneď prekladať cez Google Translate. Potom som čítal aj ďalšie knižky a sledovať internetové vysielanie [ruskej televízie](https://www.youtube.com/user/Russia24TV) aby som si zlepšil aj počúvanie ruštiny. Pozeranie ruských televíznych správ je zaujímavé kvôli masívnej propagande, ktorú človek zo západu ľahko prehliadne, ale na domácich zdá sa funguje výborne.
 * vyrábať 3D modely terénu z papieru
 	* [viac na blogu](https://petervojtek.github.io/diy/) a na [deviantart](http://petervojtek.deviantart.com/)
 * prerobiť Silhouette ploter na vyrezávanie z papiera na zariadenie ktoré dokáže vypaľovat dizajn laserom (napr. do preglejky).
@@ -93,8 +95,9 @@ Občas dostanem otázku, či sa venujem aj _niečomu serióznemu_. Zatiaľ čo d
 ## Odporúčané čítanie
 
 * [Walden](https://en.wikipedia.org/wiki/Walden), Henry David Thoreau
+* [The Abolition of Work](http://www.inspiracy.com/black/abolition/abolitionofwork.html)
 * [The Hacker Ethics](https://en.wikipedia.org/wiki/Hacker_ethic#The_hacker_ethics)
-* [Dalfar](https://dalfar.wordpress.com/)
+
 
 ![Otium]({{site.baseurl}}/images/2015-08-30-six-months-creative-leisure-time/otium.jpg "Otium")
 
