@@ -87,7 +87,7 @@ Tu sú nápady a činnosti, ku ktorým som sa nedostal a možno niekoho inšpiru
 
 Vyššie nie je uvedené zďaleka všetko, čomu som sa venoval, ale zoznam by sa značne predĺžil a v tomto stave stačí na to, aby si čitateľ predstavil ako _sa hrám_.
 
-Okrem vyššie uvedeného som sa snažil dosť času stráviť ničnerobením, snívaním a filozofovaním nad svetom. Nebudem čitateľa zbytočne zaťažovať úvahami o vesmíre a zmysle života, ku ktorým som za ten čas prišiel, ale aspoň jeden postreh na záver:
+Okrem vyššie uvedeného som sa snažil dosť času stráviť ničnerobením, snívaním a filozofovaním nad svetom. Nebudem čitateľa zbytočne zaťažovať úvahami o vesmíre a zmysle života ku ktorým som za ten čas prišiel, ale aspoň jeden postreh na záver:
 
 Občas dostanem otázku, či sa venujem aj _niečomu serióznemu_. Zatiaľ čo deti sa hrajú, dospelí ľudia sa zo všetkých síl venujú _serióznym_ činnostiam a výsledkom je neveselý svet -- napríklad bohatstvo je rozdelené medzi populáciu exponenciálne a osemdesiat najbohatších ľudí [vlastní rovnaký majetok](http://fivethirtyeight.com/datalab/meet-the-80-people-who-are-as-rich-as-half-the-world/) ako  50% najchudobnejších obyvateľov planéty. Myslím si, že by sme sa všetci spolu mali lepšie, keby sme sa viac _hrali_.
 
