@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Six Months of Creative Leisure Time (in Slovak)"
-date:   2015-08-30 20:00:0
+date:   2015-09-04 20:00:0
 thumbnail: images/2015-08-30-six-months-creative-leisure-time/otium.jpg
 tags:
 - otium 
@@ -11,9 +11,9 @@ tags:
 
 ![Otium]({{site.baseurl}}/images/2015-08-30-six-months-creative-leisure-time/bike.jpg "Otium")
 
-V júni roku 2014 som sa rozhodol, že vo februári 2015 odídem z práce a budem nejaký čas žiť spôsobom, ktorý neviem dobre pomenovať. V názve tohto článku z núdze používam výraz _creative leisure time_ ("tvorivo nezamestnaný"), kamarát Šaňo má pomenovanie _seriózne sa hrať_. Blízke pojmy sú [Otium](https://en.wikipedia.org/wiki/Otium) a [Ziran](https://en.m.wikipedia.org/wiki/Ziran). 
+V júni roku 2014 som sa rozhodol, že vo februári 2015 odídem z práce a budem nejaký čas žiť spôsobom, ktorý neviem dobre pomenovať. V názve tohto článku z núdze používam výraz _creative leisure time_ ("tvorivo nezamestnaný"), kamarát Šaňo má pomenovanie _seriózne sa hrať_. Blízke pojmy sú [otium](https://en.wikipedia.org/wiki/Otium) a [ziran](https://en.m.wikipedia.org/wiki/Ziran). 
 
-Našetril som si na to, aby som aj pri pesimistickom scenári bol aspoň na jeden rok _oslobodený_ od práce.
+Našetril som si na to, aby som aj pri najpesimistickejšom scenári bol aspoň na jeden rok _oslobodený_ od práce.
 Tento text píšem koncom augusta 2015, po prvých šiestich mesiaciacoch _seriózneho hrania sa_, kvôli známym a kamarátom, ktorí boli zvedaví, čomu som sa dosiaľ venoval.
 
 ## Teória
