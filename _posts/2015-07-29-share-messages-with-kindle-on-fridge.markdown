@@ -167,7 +167,7 @@ Once all tested, you rather want to start the webserver automatically (e.g., aft
 
 {% highlight text %}
 [program:email-to-kindle-webserver]
-command=ruby email-to-kindle.rb myfridge password
+command=ruby email-to-kindle-webserver.rb myfridge password
 autostart=true
 startsecs=1
 startretries=1
