@@ -70,9 +70,11 @@ Tu sú nápady a činnosti, ku ktorým som sa nedostal a možno niekoho inšpiru
 * zistiť či má zmysel venovať sa [mindfulness](https://en.wikipedia.org/wiki/Mindfulness)
 * vyrobiť androidovú aplikáciu do mobilu, ktorá bude cez expozimeter foťáku monitorovať koľko slnečnej expozície som za deň dostal. Na [kickstarteri](https://www.kickstarter.com/projects/342933744/violet-optimize-your-sun-experience?ref=category) sa o čosi podobné už pokúšali.
 * vymyslieť spacák tenký ako plachta, vhodný na prespanie vnútri, keď sa človeku nechce obliekať obliečky. Dôležité je aby bol lacný, ľahký a po zložení malý. Vhodný napríklad pre couchsurferov.
+	* Viktor ma upozornil, že niečo také už [existuje](http://www.seatosummit.com/travel-and-sleeping-bag-liners/)
 * arduino--based dáždnik ktorý blikne vždy keď naň dopadne kvapka
 * arduino--based zariadenie na jabloň, ktoré blikne alebo zostane na nejaký čas svietiť vždy keď som stromu spadne na zem jablko
 * webový portál, kde človek napíše výraz/slovo/názov budúceho produktu a ostatní sa vyjadria, či má tento výraz negatívny alebo neslušný význam v iných kultúrach a jazykoch
+	* medzičasom už čosi podobné [vzniklo](http://wordsafety.com/)
 * použiť git repozitár ako databázu, napríklad doň vložiť históriu európy -- commity sú udalosti a ich timestamp su historické dátumy, súbory sú štáty.
 * naučiť sa tesať do kameňa
 * arduino--based akcelerometer na hlave namiesto počítačovej myši
