@@ -51,6 +51,7 @@ Asi pol roka pred odchodom zo zamestnania som začal vytvárať zoznam nápadov 
 	* [3D Pop-up Card for Chemist/Geek](https://www.etsy.com/listing/231674533/3d-pop-up-card-for-chemist-geek?ref=shop_home_active_4)
 * webový portál v ktorom bude možné anotovať a prepájať hudobné skladby podľa toho, ako medzi sebou preberajú obsah (cover verzie, sampling, remake). 
 	* navrhol som dátový model, ale našťastie skôr než som začal programovať som zistil, že [to už existuje](http://www.whosampled.com/)
+* [radar.cyklonaut.sk](http://radar.cyklonaut.sk/) -- radarové zábery zrážok zo SHMÚ + zoomovateľná mapa SR.
 * [mapa rómskych komunít](http://petervojtek.github.io/mapa-romskych-komunit/)
 	* vizualizácia údajov z projektu [Atlasu rómskych komunít](http://romovia.vlada.gov.sk/20535/atlas-romskych-komunit.php). Napísal som aj email koordinátorke projektu pre médiá a PR aktivity, či by nevedeli poskytnúť presnejšie mapové podklady alebo nemali záujem vizualizovať iné údaje z atlasu, nedostal som odpoveď.
 
