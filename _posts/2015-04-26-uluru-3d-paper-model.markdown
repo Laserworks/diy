@@ -19,8 +19,6 @@ Map of the area:
 
 <iframe width="100%" height="400px" frameBorder="0" src="https://umap.openstreetmap.fr/en/map/uluru_37764?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
 
-[Vector (SVG) template is on github](https://github.com/petervojtek/diy/tree/gh-pages/images/2015-04-26-uluru-3d-paper-model).
-
 The frame has pretty good self--coherence (no glue is used):
 
 ![3D Paper Model of Uluru (Ayers Rock)]({{site.baseurl}}/images/2015-04-26-uluru-3d-paper-model/05.jpg "3D Paper Model of Uluru (Ayers Rock)")
@@ -32,4 +30,6 @@ More photos:
 ![3D Paper Model of Uluru (Ayers Rock)]({{site.baseurl}}/images/2015-04-26-uluru-3d-paper-model/03.jpg "3D Paper Model of Uluru (Ayers Rock)")
 
 
+SVG template:
 
+![3D Paper Model of Uluru (Ayers Rock)]({{site.baseurl}}/images/2015-04-26-uluru-3d-paper-model/uluru.svg "3D Paper Model of Uluru (Ayers Rock)")

@@ -45,6 +45,9 @@ The area captured by the model is visible on the map below:
 
 <iframe width="100%" height="300px" frameBorder="0" src="https://umap.openstreetmap.fr/en/map/3d-model-colorado-river-horseshoe-bend_36985?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
 
+SVG template:
+
+![3D Paper Model of Grand Canyon (Horseshoe Bend View)]({{site.baseurl}}/images/2015-04-21-grand-canyon/grand-canyon.svg "3D Paper Model of Grand Canyon (Horseshoe Bend View)")
 
 
 ### More Photos

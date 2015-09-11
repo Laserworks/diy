@@ -34,3 +34,7 @@ More photos:
 ![Chuquicamata Mine Paper Model]({{site.baseurl}}/images/2015-05-23-chuquicamata-mine/04.jpg "Chuquicamata Mine Paper Model")
 
 ![Chuquicamata Mine Paper Model]({{site.baseurl}}/images/2015-05-23-chuquicamata-mine/06.jpg "Chuquicamata Mine Paper Model")
+
+SVG template:
+
+![Chuquicamata Mine Paper Model]({{site.baseurl}}/images/2015-05-23-chuquicamata-mine/chuquicamata.svg "Chuquicamata Mine Paper Model")

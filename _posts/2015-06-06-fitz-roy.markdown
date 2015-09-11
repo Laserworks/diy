@@ -28,3 +28,7 @@ Arrow on the base paper is direction towards north.
 ![3D Paper Model of Cerro Fitz Roy]({{site.baseurl}}/images/2015-06-06-fitz-roy/02.jpg "3D Paper Model of Cerro Fitz Roy")
 
 
+SVG template:
+
+
+![3D Paper Model of Cerro Fitz Roy]({{site.baseurl}}/images/2015-06-06-fitz-roy/fitz-roy.svg "3D Paper Model of Cerro Fitz Roy")

@@ -30,3 +30,7 @@ Each paper layer corresponds to 20 meters of elevation. Each fifth layer has pin
 ![Bingham Canyon Mine Paper Model]({{site.baseurl}}/images/2015-05-22-bingham-canyon-mine/03.jpg "Bingham Canyon Mine Paper Model")
 
 I gathered the elevation lines via [Maperitive](http://maperitive.net/), exported the outcome to SVG, prepared the layers for cutting in [Inkscape](https://inkscape.org/en/) and cut the paper layers using Silhouette blade cutter.
+
+SVG template:
+
+![Bingham Canyon Mine Paper Model]({{site.baseurl}}/images/2015-05-22-bingham-canyon-mine/bingham.svg "Bingham Canyon Mine Paper Model")

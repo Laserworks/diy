@@ -34,3 +34,7 @@ More photos:
 ![3D Paper Model of Říp Mountain]({{site.baseurl}}/images/2015-06-05-rip/08.jpg "3D Paper Model of Říp Mountain")
 
 ![3D Paper Model of Říp Mountain]({{site.baseurl}}/images/2015-06-05-rip/10.jpg "3D Paper Model of Říp Mountain")
+
+SVG template:
+
+![3D Paper Model of Říp Mountain]({{site.baseurl}}/images/2015-06-05-rip/rip.svg "3D Paper Model of Říp Mountain")
