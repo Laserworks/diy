@@ -75,3 +75,9 @@ Following image is [Vápenná mountain in Malé Karpaty](http://goo.gl/SXC2AJ), 
 For a comparison, this house was burned with a single path traversal:
 
 ![Path traversed once]({{site.baseurl}}/images/plywood-laser-06.jpg "Path traversed once")
+
+### Avoid Hard Edges
+
+Kay from [Cleversomeday](https://cleversomeday.wordpress.com/) and [Nat Julian Belza](https://www.youtube.com/user/blazerart) both suggested that to avoid ugly edges one should set Media to Pen in the Robocut's cutting dialog. If not set to Pen, the edges look this ugly:
+
+![Ugly edges]({{site.baseurl}}/images/lasermap-ugly-edges.jpg "Ugly edges")
