@@ -99,6 +99,7 @@ Občas dostanem otázku, či sa venujem aj _niečomu serióznemu_. Zatiaľ čo d
 
 * [Walden](https://en.wikipedia.org/wiki/Walden), Henry David Thoreau
 * [The Abolition of Work](http://www.inspiracy.com/black/abolition/abolitionofwork.html)
+* [In Praise of Idleness (Bertrand Russell)](http://www.zpub.com/notes/idle.html)
 * [The Hacker Ethics](https://en.wikipedia.org/wiki/Hacker_ethic#The_hacker_ethics)
 
 
